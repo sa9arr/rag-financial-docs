@@ -1,54 +1,32 @@
 import streamlit as st
-import asyncio
-from lightrag import LightRAG, QueryParam
-from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
-from lightrag.kg.shared_storage import initialize_pipeline_status
+from rag_services.kg_rag_service import answer_query
+from rag_services.vector_rag_service import answer_vector_rag_query
 
+st.set_page_config(page_title="Hybrid RAG App", layout="centered")
 
-_rag_instance = None
+st.title("🔍 RAG with APPL Financial Docs")
+st.write("Ask a question and choose a retrieval method (Vector or Knowledge Graph).")
+st.write("Vector RAG uses ChromaDB and FinLang/finance-embeddings-investopedia, while Knowledge Graph RAG uses LightRAG with OpenAI embeddings.")
 
-async def _initialize_rag():
-    """Initialize the LightRAG instance asynchronously."""
-    rag = LightRAG(
-        working_dir="./aapl_financial_data",  
-        embedding_func=openai_embed,
-        llm_model_func=gpt_4o_mini_complete,
-        enable_llm_cache=False
-    )
-    await rag.initialize_storages()
-    await initialize_pipeline_status()
-    return rag
-
-def get_rag():
-    """Returns a cached LightRAG instance, initializes if not already."""
-    global _rag_instance
-    if _rag_instance is None:
-        _rag_instance = asyncio.run(_initialize_rag())
-    return _rag_instance
-
-def answer_query(user_query: str):
-    """Queries the knowledge graph and returns the response."""
-    rag = get_rag()
-    query_param = QueryParam(mode="mix", only_need_context=False)
-    return rag.query(user_query, param=query_param)
-
-
-
-
-st.set_page_config(page_title="KG Retrieval App", layout="centered")
-
-st.title("🔍 Knowledge Graph Retrieval App")
-st.write("Ask a question and get an AI-generated answer from your indexed knowledge base.")
+# Radio button to choose the RAG method
+rag_method = st.radio(
+    "Choose a RAG method:",
+    ("KG RAG", "Vector RAG")
+)
 
 # Input field
 query = st.text_input("Enter your question:")
 
-# Search button
+# Submit button
 if st.button("Search"):
     if query.strip():
-        with st.spinner("Retrieving answer..."):
+        with st.spinner(f"Retrieving answer using {rag_method}..."):
             try:
-                answer = answer_query(query)
+                if rag_method == "KG RAG":
+                    answer = answer_query(query)
+                elif rag_method == "Vector RAG":
+                    answer = answer_vector_rag_query(query)
+                
                 st.subheader("Answer")
                 st.write(answer)
             except Exception as e:

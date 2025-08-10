@@ -4,3 +4,10 @@ sentence-transformers
 torch
 lightrag-hku==1.4.6
 streamlit
+langchain
+langchain-community
+langchain-chroma
+huggingface-hub
+langchain-openai
+python-dotenv
+langchain-huggingface

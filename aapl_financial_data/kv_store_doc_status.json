@@ -1,0 +1,39 @@
+{
+  "doc-14fe322ef9150f55b64e518d573e93e2": {
+    "status": "processed",
+    "chunks_count": 21,
+    "chunks_list": [
+      "chunk-b71ead0c8d7279baa2fc8b1f22e90c61",
+      "chunk-57ff97c834d7cccfd9c2e63695a516a9",
+      "chunk-90c9104a7c07e74d133bfa9c77882c18",
+      "chunk-9dbe6d709d1185c6069516ffa0ff9c29",
+      "chunk-e7437b99c615a34439968b5a79b309ee",
+      "chunk-5a43c76c15ee273f3b6fe6342d05581c",
+      "chunk-97098f5ab0596cfb8c1788f6631a35f7",
+      "chunk-0a61210b37fe67569d7fb5e9260b901d",
+      "chunk-7b38246babae9e937abd3337e578e39c",
+      "chunk-5667be7ee814f9325edc15416624ae7d",
+      "chunk-5364a1686fe3fbb9954bed288582cd25",
+      "chunk-f7ce468fc41faefa346e0bdde00f14bc",
+      "chunk-1f1da88035b296490c9ef80daed18a41",
+      "chunk-0055a41e0ea7581d107534c00d5324b7",
+      "chunk-e25eb41592e94072b3fe995c836426f5",
+      "chunk-f867fff1e5b5919356b6b58b89c2068d",
+      "chunk-f61306c246bae83bff7a8170bf384d8c",
+      "chunk-4efbfa1b357e26ac583d28b1aab76349",
+      "chunk-a3950ef8021814e5f600e35d4cad03d8",
+      "chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e",
+      "chunk-6522ee288dda614a176d0693133b250e"
+    ],
+    "content_summary": "# Q3 report of year 2022 of Apple(AAPL)\n\n## UNITED STATES SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\n## FORM 10-Q\n\n<!-- image -->\n\n(Mark One)\n\n☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n...",
+    "content_length": 115367,
+    "created_at": "2025-08-10T12:29:35.541004+00:00",
+    "updated_at": "2025-08-10T12:33:38.419742+00:00",
+    "file_path": "aapl_financial_data/2022 Q3 AAPL.md",
+    "track_id": "insert_20250810_181435_d9566a84",
+    "metadata": {
+      "processing_start_time": 1754828975,
+      "processing_end_time": 1754829218
+    }
+  }
+}

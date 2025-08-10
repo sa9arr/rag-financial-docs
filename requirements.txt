@@ -1,2 +1,5 @@
-unstructured[pdf]
+
 docling
+sentence-transformers
+torch
+lightrag

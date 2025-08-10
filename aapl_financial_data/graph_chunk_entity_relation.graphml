@@ -1,0 +1,2860 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="United States Securities and Exchange Commission">
+  <data key="d0">United States Securities and Exchange Commission</data>
+  <data key="d1">organization</data>
+  <data key="d2">The United States Securities and Exchange Commission is a federal agency responsible for enforcing federal securities laws and regulating the securities industry.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829104</data>
+</node>
+<node id="Cupertino">
+  <data key="d0">Cupertino</data>
+  <data key="d1">geo</data>
+  <data key="d2">Cupertino is a city in California, which is the location of Apple Inc.'s principal executive offices.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829104</data>
+</node>
+<node id="FORM 10-Q">
+  <data key="d0">FORM 10-Q</data>
+  <data key="d1">event</data>
+  <data key="d2">FORM 10-Q is a quarterly report filed by publicly traded companies to provide a comprehensive overview of their financial condition, including financial statements and management discussion.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829104</data>
+</node>
+<node id="California">
+  <data key="d0">California</data>
+  <data key="d1">geo</data>
+  <data key="d2">California is the U.S. state where the Northern California District Court is located and where the legal proceedings regarding The Company and Epic Games are taking place.&lt;SEP&gt;California is the state in which Apple Inc. is incorporated and has its primary operations.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61&lt;SEP&gt;chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829104</data>
+</node>
+<node id="Securities Exchange Act of 1934">
+  <data key="d0">Securities Exchange Act of 1934</data>
+  <data key="d1">category</data>
+  <data key="d2">The Securities Exchange Act of 1934 is a U.S. federal law that regulates the securities industry, requiring companies to disclose financial and other information to the public.&lt;SEP&gt;The Securities Exchange Act of 1934 is a federal law that regulates securities transactions in the United States, ensuring transparency and fairness in the financial markets.&lt;SEP&gt;The Securities Exchange Act of 1934 is a law governing the trading of securities in the United States, requiring periodic reporting by public companies.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61&lt;SEP&gt;chunk-a3950ef8021814e5f600e35d4cad03d8&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829104</data>
+</node>
+<node id="One Apple Park Way">
+  <data key="d0">One Apple Park Way</data>
+  <data key="d1">geo</data>
+  <data key="d2">One Apple Park Way is the address of Apple Inc.'s principal executive offices located in Cupertino, California.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829104</data>
+</node>
+<node id="Commission File Number: 001-36743">
+  <data key="d0">Commission File Number: 001-36743</data>
+  <data key="d1">category</data>
+  <data key="d2">Commission File Number: 001-36743 is the designated identifier for Apple Inc.'s filings with the SEC, specifically relating to its securities registration.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829104</data>
+</node>
+<node id="1.000% Notes due 2022">
+  <data key="d0">1.000% Notes due 2022</data>
+  <data key="d1">category</data>
+  <data key="d2">1.000% Notes due 2022 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829105</data>
+</node>
+<node id="1.375% Notes due 2024">
+  <data key="d0">1.375% Notes due 2024</data>
+  <data key="d1">category</data>
+  <data key="d2">1.375% Notes due 2024 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829105</data>
+</node>
+<node id="0.000% Notes due 2025">
+  <data key="d0">0.000% Notes due 2025</data>
+  <data key="d1">category</data>
+  <data key="d2">0.000% Notes due 2025 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829105</data>
+</node>
+<node id="0.875% Notes due 2025">
+  <data key="d0">0.875% Notes due 2025</data>
+  <data key="d1">category</data>
+  <data key="d2">0.875% Notes due 2025 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829105</data>
+</node>
+<node id="1.625% Notes due 2026">
+  <data key="d0">1.625% Notes due 2026</data>
+  <data key="d1">category</data>
+  <data key="d2">1.625% Notes due 2026 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829105</data>
+</node>
+<node id="2.000% Notes due 2027">
+  <data key="d0">2.000% Notes due 2027</data>
+  <data key="d1">category</data>
+  <data key="d2">2.000% Notes due 2027 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829105</data>
+</node>
+<node id="1.375% Notes due 2029">
+  <data key="d0">1.375% Notes due 2029</data>
+  <data key="d1">category</data>
+  <data key="d2">1.375% Notes due 2029 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829105</data>
+</node>
+<node id="3.050% Notes due 2029">
+  <data key="d0">3.050% Notes due 2029</data>
+  <data key="d1">category</data>
+  <data key="d2">3.050% Notes due 2029 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829106</data>
+</node>
+<node id="0.500% Notes due 2031">
+  <data key="d0">0.500% Notes due 2031</data>
+  <data key="d1">category</data>
+  <data key="d2">0.500% Notes due 2031 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829106</data>
+</node>
+<node id="3.600% Notes due 2042">
+  <data key="d0">3.600% Notes due 2042</data>
+  <data key="d1">category</data>
+  <data key="d2">3.600% Notes due 2042 refers to a specific bond offering by Apple Inc. as part of its registered securities.</data>
+  <data key="d3">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829106</data>
+</node>
+<node id="Net Sales">
+  <data key="d0">Net Sales</data>
+  <data key="d1">category</data>
+  <data key="d2">Net Sales refer to the Company's revenue generated from various products and services during specific periods, showing variations compared to previous years.&lt;SEP&gt;Net Sales refer to the total revenue generated from products and services, providing a measure of financial performance for a given period.</data>
+  <data key="d3">chunk-57ff97c834d7cccfd9c2e63695a516a9&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829106</data>
+</node>
+<node id="Cost of Sales">
+  <data key="d0">Cost of Sales</data>
+  <data key="d1">category</data>
+  <data key="d2">Cost of Sales refers to the direct costs attributable to the production of the goods sold by Apple Inc., indicating the expenses incurred in generating revenue.</data>
+  <data key="d3">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829106</data>
+</node>
+<node id="Operating Income">
+  <data key="d0">Operating Income</data>
+  <data key="d1">category</data>
+  <data key="d2">Operating Income represents the earnings generated from Apple's core business operations, excluding costs associated with non-operating activities.</data>
+  <data key="d3">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829106</data>
+</node>
+<node id="Income Before Provision for Income Taxes">
+  <data key="d0">Income Before Provision for Income Taxes</data>
+  <data key="d1">category</data>
+  <data key="d2">Income Before Provision for Income Taxes is a financial metric that indicates the company's earnings before accounting for tax expenses.</data>
+  <data key="d3">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829106</data>
+</node>
+<node id="Net Income">
+  <data key="d0">Net Income</data>
+  <data key="d1">category</data>
+  <data key="d2">Net Income represents the total profit of Apple Inc. after all expenses, taxes, and costs have been deducted from total revenue.&lt;SEP&gt;Net income represents the profit of Apple Inc. after all expenses have been deducted from revenues, with amounts reported for various periods.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee&lt;SEP&gt;chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Earnings Per Share">
+  <data key="d0">Earnings Per Share</data>
+  <data key="d1">category</data>
+  <data key="d2">Earnings Per Share (EPS) measures the portion of a company's profit allocated to each outstanding share of common stock, used as an indicator of profitability.&lt;SEP&gt;Earnings per share is a financial metric indicating the portion of a company's profit allocated to each outstanding share of common stock, essential for assessing company performance.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee&lt;SEP&gt;chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="June 25, 2022">
+  <data key="d0">June 25, 2022</data>
+  <data key="d1">event</data>
+  <data key="d2">June 25, 2022 is a reference date included in the financial statements and reporting of the Company's financial position.&lt;SEP&gt;June 25, 2022 refers to a specific date which may indicate a reporting period in financial statements for Apple Inc.&lt;SEP&gt;June 25, 2022, is the reporting date for financial performance and balances detailed in the financial statements of Apple Inc.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29&lt;SEP&gt;chunk-90c9104a7c07e74d133bfa9c77882c18&lt;SEP&gt;chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="June 26, 2021">
+  <data key="d0">June 26, 2021</data>
+  <data key="d1">event</data>
+  <data key="d2">June 26, 2021 refers to a specific date which likely marks a prior reporting period for financial statements for Apple Inc.&lt;SEP&gt;June 26, 2021, is another reporting date included for comparison in Apple Inc.'s financial performance and balances.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29&lt;SEP&gt;chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Condensed Consolidated Financial Statements">
+  <data key="d0">Condensed Consolidated Financial Statements</data>
+  <data key="d1">category</data>
+  <data key="d2">Condensed Consolidated Financial Statements provide an overview of Apple Inc.'s financial performance and position across various reporting periods.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Marketable Debt Securities">
+  <data key="d0">Marketable Debt Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Marketable Debt Securities refer to financial instruments that are being reported in Apple Inc.'s financial statements, reflecting changes in value and unrealized gains or losses.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Accounts Receivable">
+  <data key="d0">Accounts Receivable</data>
+  <data key="d1">category</data>
+  <data key="d2">Accounts Receivable are amounts due to the Company from customers from the sale of goods or services.&lt;SEP&gt;Accounts Receivable is a line item in Apple Inc.'s financial statements indicating money owed by customers for goods and services sold.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18&lt;SEP&gt;chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Inventories">
+  <data key="d0">Inventories</data>
+  <data key="d1">category</data>
+  <data key="d2">Inventories represent goods and materials that Apple Inc. holds for sale in the ordinary course of business.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Vendor Non-Trade Receivables">
+  <data key="d0">Vendor Non-Trade Receivables</data>
+  <data key="d1">category</data>
+  <data key="d2">Vendor Non-Trade Receivables are amounts owed to Apple Inc. from vendors that are not related to trade activities.&lt;SEP&gt;Vendor Non-Trade Receivables include financial amounts that the Company holds from manufacturing vendors.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18&lt;SEP&gt;chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Total Assets">
+  <data key="d0">Total Assets</data>
+  <data key="d1">category</data>
+  <data key="d2">Total Assets are a line item in the financial statements representing the sum of all assets owned by Apple Inc.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Total Current Liabilities">
+  <data key="d0">Total Current Liabilities</data>
+  <data key="d1">category</data>
+  <data key="d2">Total Current Liabilities indicate the sum of all short-term financial obligations Apple Inc. needs to settle within a year.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829107</data>
+</node>
+<node id="Total Liabilities">
+  <data key="d0">Total Liabilities</data>
+  <data key="d1">category</data>
+  <data key="d2">Total Liabilities refer to the aggregate amount of debts and obligations Apple Inc. has, including both current and non-current liabilities.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829108</data>
+</node>
+<node id="Shareholders' Equity">
+  <data key="d0">Shareholders' Equity</data>
+  <data key="d1">category</data>
+  <data key="d2">Shareholders' Equity represents the residual interest in the assets of Apple Inc. after deducting liabilities; it includes common stock, retained earnings, and other comprehensive income.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829108</data>
+</node>
+<node id="Common Stock">
+  <data key="d0">Common Stock</data>
+  <data key="d1">category</data>
+  <data key="d2">Common Stock is a type of equity security representing ownership in Apple Inc., with values mentioned in their financial statements.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829108</data>
+</node>
+<node id="Term Debt">
+  <data key="d0">Term Debt</data>
+  <data key="d1">category</data>
+  <data key="d2">Term Debt consists of floating- and fixed-rate notes with varying maturities that the Company has outstanding.&lt;SEP&gt;Term Debt refers to the long-term financial obligations scheduled for repayment over a set period by Apple Inc.</data>
+  <data key="d3">chunk-5667be7ee814f9325edc15416624ae7d&lt;SEP&gt;chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829108</data>
+</node>
+<node id="Other Current Liabilities">
+  <data key="d0">Other Current Liabilities</data>
+  <data key="d1">category</data>
+  <data key="d2">Other Current Liabilities encompass all other short-term obligations of Apple Inc. that are not classified under specific line items.</data>
+  <data key="d3">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829108</data>
+</node>
+<node id="Cash Flow Statements">
+  <data key="d0">Cash Flow Statements</data>
+  <data key="d1">category</data>
+  <data key="d2">Cash Flow Statements are financial reports that provide insights on a company's cash inflows and outflows during specific periods.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829108</data>
+</node>
+<node id="Total Shareholders' Equity">
+  <data key="d0">Total Shareholders' Equity</data>
+  <data key="d1">category</data>
+  <data key="d2">Total shareholders' equity represents the total value of equity owned by shareholders at a given time, reflecting the company's financial position.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829108</data>
+</node>
+<node id="Common Stock and Additional Paid-in Capital">
+  <data key="d0">Common Stock and Additional Paid-in Capital</data>
+  <data key="d1">category</data>
+  <data key="d2">Common stock and additional paid-in capital details the equity capital raised by Apple Inc. through the sale of its stock and other financial instruments.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829109</data>
+</node>
+<node id="Retained Earnings">
+  <data key="d0">Retained Earnings</data>
+  <data key="d1">category</data>
+  <data key="d2">Retained earnings indicate the amount of net income that is retained in the company rather than distributed as dividends, reflecting Apple's cumulative profits.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829109</data>
+</node>
+<node id="Dividends and Dividend Equivalents Declared">
+  <data key="d0">Dividends and Dividend Equivalents Declared</data>
+  <data key="d1">category</data>
+  <data key="d2">Dividends and dividend equivalents declared refer to the payments Apple Inc. makes to shareholders as a portion of its profits.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829109</data>
+</node>
+<node id="Operating Activities">
+  <data key="d0">Operating Activities</data>
+  <data key="d1">category</data>
+  <data key="d2">Operating activities encompass Apple's core business operations, generating cash from its ongoing business activities.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829109</data>
+</node>
+<node id="Investing Activities">
+  <data key="d0">Investing Activities</data>
+  <data key="d1">category</data>
+  <data key="d2">Investing activities include cash flows related to the acquisition and disposal of long-term assets and investments by Apple Inc.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829109</data>
+</node>
+<node id="Fiscal Year 2022">
+  <data key="d0">Fiscal Year 2022</data>
+  <data key="d1">event</data>
+  <data key="d2">Fiscal Year 2022 refers to the accounting period for Apple Inc., which spans 52 weeks and ends on the last Saturday of September.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829109</data>
+</node>
+<node id="Fiscal Year 2021">
+  <data key="d0">Fiscal Year 2021</data>
+  <data key="d1">event</data>
+  <data key="d2">Fiscal Year 2021 is the accounting period for Apple Inc. prior to Fiscal Year 2022, following the same 52-week cycle.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="Payments for Taxes Related to Net Share Settlement of Equity Awards">
+  <data key="d0">Payments for Taxes Related to Net Share Settlement of Equity Awards</data>
+  <data key="d1">category</data>
+  <data key="d2">Payments for taxes related to net share settlement of equity awards indicate financial obligations incurred by Apple Inc. linked to the settlement of equity awards.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="Payments for Dividends and Dividend Equivalents">
+  <data key="d0">Payments for Dividends and Dividend Equivalents</data>
+  <data key="d1">category</data>
+  <data key="d2">Payments for dividends and dividend equivalents represent distributions to Apple Inc. shareholders, reflecting the company's commitment to returning value to its investors.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="Repurchases of Common Stock">
+  <data key="d0">Repurchases of Common Stock</data>
+  <data key="d1">category</data>
+  <data key="d2">Repurchases of common stock involve Apple Inc. buying back its shares from the market, which may indicate efforts to increase shareholder value or manage capital structure.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="Proceeds from Issuance of Term Debt">
+  <data key="d0">Proceeds from Issuance of Term Debt</data>
+  <data key="d1">category</data>
+  <data key="d2">Proceeds from issuance of term debt signify the funds raised by Apple Inc. through borrowing, which can be used for various corporate financing needs.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="Cash Used in Investing Activities">
+  <data key="d0">Cash Used in Investing Activities</data>
+  <data key="d1">category</data>
+  <data key="d2">Cash used in investing activities refers to the outflows related to acquisitions, investments, and capital expenditures by Apple Inc., indicating its investment strategies and priorities.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="Cash Used in Financing Activities">
+  <data key="d0">Cash Used in Financing Activities</data>
+  <data key="d1">category</data>
+  <data key="d2">Cash used in financing activities indicates the cash outflows related to debt repayments, stock repurchases, and dividend payments by Apple Inc.</data>
+  <data key="d3">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="Apple">
+  <data key="d0">Apple</data>
+  <data key="d1">organization</data>
+  <data key="d2">Apple is a leading technology company known for its innovative products such as iPhones, Macs, iPads, and services including digital content and AppleCare.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829110</data>
+</node>
+<node id="iPhone">
+  <data key="d0">iPhone</data>
+  <data key="d1">category</data>
+  <data key="d2">iPhone is a flagship product of the Company that saw an increase in net sales during the third quarter of 2022.&lt;SEP&gt;iPhone is a line of smartphones designed and marketed by Apple, generating significant net sales for the company.&lt;SEP&gt;iPhone is a smartphone developed by Apple, contributing significantly to the company's net sales within various regions.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Mac">
+  <data key="d0">Mac</data>
+  <data key="d1">category</data>
+  <data key="d2">Mac refers to Apple's line of personal computers, which experienced lower net sales in certain reportable segments.&lt;SEP&gt;Mac refers to a series of personal computers designed by Apple, contributing to the company's overall revenues.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="iPad">
+  <data key="d0">iPad</data>
+  <data key="d1">category</data>
+  <data key="d2">iPad is a product category that experienced a decrease in sales during the third quarter of 2022 compared to the previous year.&lt;SEP&gt;iPad is a tablet device produced by Apple, included in its product offerings that generate substantial sales.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Wearables, Home and Accessories">
+  <data key="d0">Wearables, Home and Accessories</data>
+  <data key="d1">category</data>
+  <data key="d2">This category includes various Apple products like AirPods and Apple Watch, which are part of the company's revenue generation.&lt;SEP&gt;Wearables, Home and Accessories encompasses products like AirPods and Apple Watches, which saw varying sales performance in 2022.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Cash and Cash Equivalents">
+  <data key="d0">Cash and Cash Equivalents</data>
+  <data key="d1">category</data>
+  <data key="d2">Cash and Cash Equivalents refer to liquid assets that are easily convertible into cash.&lt;SEP&gt;Cash and Cash Equivalents represent Apple's liquid assets available for immediate use.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7&lt;SEP&gt;chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Apple Inc.">
+  <data key="d0">Apple Inc.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Apple Inc. is a multinational technology company renowned for its innovative consumer electronics, software, and services. It is widely recognized for popular hardware products such as iPhones and Mac computers. Apple operates globally and has various wholly owned subsidiaries. The company is publicly traded under the symbol AAPL and frequently provides detailed financial performance reports, including net sales, condensed consolidated statements of operations, and comprehensive income.
+
+Apple's financial disclosures, which often appear in the context of quarterly reports, highlight its stock repurchase activities and overall financial conditions. The company makes a point to retain signed statements for regulatory purposes, emphasizing its commitment to compliance and transparency in its operations. Apple continues to launch new products and services, reinforcing its reputation as a leader in technology and innovation.</data>
+  <data key="d3">chunk-9dbe6d709d1185c6069516ffa0ff9c29&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e&lt;SEP&gt;chunk-e7437b99c615a34439968b5a79b309ee&lt;SEP&gt;chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-a3950ef8021814e5f600e35d4cad03d8&lt;SEP&gt;chunk-57ff97c834d7cccfd9c2e63695a516a9&lt;SEP&gt;chunk-6522ee288dda614a176d0693133b250e&lt;SEP&gt;chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Marketable Securities">
+  <data key="d0">Marketable Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Marketable Securities are financial instruments that Apple can quickly convert into cash or cash equivalents.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Deferred Revenue">
+  <data key="d0">Deferred Revenue</data>
+  <data key="d1">category</data>
+  <data key="d2">Deferred Revenue refers to income that has been received by the company but not yet recognized as revenue because the service or product has not been delivered yet.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Significant Products and Services">
+  <data key="d0">Significant Products and Services</data>
+  <data key="d1">category</data>
+  <data key="d2">Significant Products and Services include key product categories that contribute notably to the company's net sales.</data>
+  <data key="d3">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829111</data>
+</node>
+<node id="Money Market Funds">
+  <data key="d0">Money Market Funds</data>
+  <data key="d1">category</data>
+  <data key="d2">Money Market Funds are short-term investment vehicles that typically invest in cash, cash-equivalent securities, and other highly liquid assets.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829112</data>
+</node>
+<node id="Mutual Funds">
+  <data key="d0">Mutual Funds</data>
+  <data key="d1">category</data>
+  <data key="d2">Mutual Funds are investment programs funded by shareholders that trade in diversified holdings and are professionally managed.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829112</data>
+</node>
+<node id="U.S. Treasury Securities">
+  <data key="d0">U.S. Treasury Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">U.S. Treasury Securities are debt instruments issued by the U.S. Department of the Treasury to finance government spending.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829112</data>
+</node>
+<node id="U.S. Agency Securities">
+  <data key="d0">U.S. Agency Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">U.S. Agency Securities are bonds issued by government-affiliated organizations to finance their activities.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829112</data>
+</node>
+<node id="Non-U.S. Government Securities">
+  <data key="d0">Non-U.S. Government Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Non-U.S. Government Securities are debt instruments issued by foreign governments and may offer higher returns compared to U.S. securities.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829112</data>
+</node>
+<node id="Certificates of Deposit and Time Deposits">
+  <data key="d0">Certificates of Deposit and Time Deposits</data>
+  <data key="d1">category</data>
+  <data key="d2">Certificates of Deposit (CDs) are time deposits offered by banks that pay interest over a fixed term.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829112</data>
+</node>
+<node id="Commercial Paper">
+  <data key="d0">Commercial Paper</data>
+  <data key="d1">category</data>
+  <data key="d2">Commercial Paper is an unsecured, short-term debt instrument issued by a company to finance its immediate needs.&lt;SEP&gt;Commercial Paper refers to unsecured short-term promissory notes issued by the Company for general corporate purposes, including dividends and share repurchases.&lt;SEP&gt;Commercial paper is an unsecured, short-term debt instrument issued by the Company for financing needs.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7&lt;SEP&gt;chunk-5667be7ee814f9325edc15416624ae7d&lt;SEP&gt;chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Corporate Debt Securities">
+  <data key="d0">Corporate Debt Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Corporate Debt Securities are bonds or notes issued by corporations to raise capital, typically offering fixed interest rates.&lt;SEP&gt;Corporate debt securities refer to bonds or notes issued by the Company to raise capital.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7&lt;SEP&gt;chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Municipal Securities">
+  <data key="d0">Municipal Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Municipal Securities are bonds issued by local government entities, often providing tax benefits for investors.&lt;SEP&gt;Municipal securities are debt obligations issued by local government entities included in the Company's financial instruments.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7&lt;SEP&gt;chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Mortgage- and Asset-Backed Securities">
+  <data key="d0">Mortgage- and Asset-Backed Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Mortgage- and Asset-Backed Securities are types of securities that are backed by a pool of loans, mortgages, or other financial assets.&lt;SEP&gt;These are investment products backed by mortgages or other loans, which are part of the Company's portfolio.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7&lt;SEP&gt;chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="September 25, 2021">
+  <data key="d0">September 25, 2021</data>
+  <data key="d1">event</data>
+  <data key="d2">September 25, 2021 is another reference date included in the financial statements for comparison to June 25, 2022.&lt;SEP&gt;September 25, 2021 is noted as a specific date relevant to the financial data presented in the text.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7&lt;SEP&gt;chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Current Marketable Securities">
+  <data key="d0">Current Marketable Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Current Marketable Securities are financial instruments that are expected to be converted into cash within a year.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Services">
+  <data key="d0">Services</data>
+  <data key="d1">category</data>
+  <data key="d2">Services refer to a category of offerings by Apple that experienced increased gross margins compared to prior periods, largely due to higher sales. This category encompasses various offerings, including advertising, AppleCare, and cloud services, which have shown year-over-year growth in net sales. Moreover, Services play a significant role in Apple's overall financial performance, contributing substantially to total net sales with their diverse digital offerings.</data>
+  <data key="d3">chunk-e25eb41592e94072b3fe995c836426f5&lt;SEP&gt;chunk-5a43c76c15ee273f3b6fe6342d05581c&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Non-Current Marketable Securities">
+  <data key="d0">Non-Current Marketable Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Non-Current Marketable Securities are financial instruments that are not expected to be converted into cash within the current fiscal year.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Total">
+  <data key="d0">Total</data>
+  <data key="d1">category</data>
+  <data key="d2">Total represents the overall aggregated financial figure summarizing all amounts listed in the previous categories.</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829113</data>
+</node>
+<node id="Certificates of Deposit">
+  <data key="d0">Certificates of Deposit</data>
+  <data key="d1">category</data>
+  <data key="d2">Certificates of deposit are a type of time deposit held in banks and are included in the Company's financial instruments portfolio.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Foreign Exchange Contracts">
+  <data key="d0">Foreign Exchange Contracts</data>
+  <data key="d1">category</data>
+  <data key="d2">Foreign exchange contracts are derivative instruments used by the Company to hedge against foreign currency fluctuations.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Interest Rate Swaps">
+  <data key="d0">Interest Rate Swaps</data>
+  <data key="d1">category</data>
+  <data key="d2">Interest rate swaps are financial derivatives the Company uses to manage exposure to interest rate fluctuations.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Forward Contracts">
+  <data key="d0">Forward Contracts</data>
+  <data key="d1">category</data>
+  <data key="d2">Forward contracts are agreements to exchange currencies with the aim of managing foreign exchange risks.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Non-Current Marketable Debt Securities">
+  <data key="d0">Non-Current Marketable Debt Securities</data>
+  <data key="d1">category</data>
+  <data key="d2">Non-current marketable debt securities refer to the Company's long-term investments that are expected to mature beyond the current accounting period.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Derivative Instruments">
+  <data key="d0">Derivative Instruments</data>
+  <data key="d1">category</data>
+  <data key="d2">Derivative Instruments include financial contracts whose value depends on the performance of an underlying asset, used by the Company for hedging purposes.&lt;SEP&gt;Derivative instruments are financial contracts whose value is derived from the performance of an underlying asset, index, or rate, used by the Company for hedging.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d&lt;SEP&gt;chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Hedging">
+  <data key="d0">Hedging</data>
+  <data key="d1">category</data>
+  <data key="d2">Hedging refers to the financial strategy employed by the Company to reduce risk associated with fluctuations in currency and interest rates.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Fair Value Estimates">
+  <data key="d0">Fair Value Estimates</data>
+  <data key="d1">category</data>
+  <data key="d2">Fair value estimates are used by the Company to assess the value of its financial assets and liabilities based on market conditions.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Company's Term Debt">
+  <data key="d0">Company's Term Debt</data>
+  <data key="d1">category</data>
+  <data key="d2">The Company's term debt refers to long-term loans that require regular payments over time and that may be hedged against financial risks.</data>
+  <data key="d3">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829114</data>
+</node>
+<node id="Trade Receivables">
+  <data key="d0">Trade Receivables</data>
+  <data key="d1">category</data>
+  <data key="d2">Trade Receivables consist of amounts owed to the Company by third-party cellular network carriers and various customers.</data>
+  <data key="d3">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Property, Plant and Equipment">
+  <data key="d0">Property, Plant and Equipment</data>
+  <data key="d1">category</data>
+  <data key="d2">Property, Plant and Equipment refers to the Company's physical assets and their net values.</data>
+  <data key="d3">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Other Non-Current Liabilities">
+  <data key="d0">Other Non-Current Liabilities</data>
+  <data key="d1">category</data>
+  <data key="d2">Other Non-Current Liabilities represent the Company's longer-term liabilities, including taxes and other expenses.</data>
+  <data key="d3">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="&quot;Other Income/(Expense)">
+  <data key="d0">"Other Income/(Expense)</data>
+  <data key="d1">category</data>
+  <data key="d2">Other Income/(Expense) reflects the Company's additional financial activities outside of primary operations, showing gains and losses.</data>
+  <data key="d3">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Cash Flow Hedges">
+  <data key="d0">Cash Flow Hedges</data>
+  <data key="d1">category</data>
+  <data key="d2">Cash Flow Hedges refer to derivative instruments designated to manage exposure to variability in cash flows associated with financial transactions.</data>
+  <data key="d3">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Fair Value Hedges">
+  <data key="d0">Fair Value Hedges</data>
+  <data key="d1">category</data>
+  <data key="d2">Fair Value Hedges are derivative instruments utilized to hedge exposure to changes in the fair value of recognized assets or liabilities.</data>
+  <data key="d3">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Share Repurchase Program">
+  <data key="d0">Share Repurchase Program</data>
+  <data key="d1">category</data>
+  <data key="d2">The Share Repurchase Program is an initiative authorized by the Board of Directors allowing the Company to repurchase shares of its common stock.</data>
+  <data key="d3">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Restricted Stock Units">
+  <data key="d0">Restricted Stock Units</data>
+  <data key="d1">category</data>
+  <data key="d2">Restricted Stock Units (RSUs) are a form of compensation provided to employees that vest over time, indicating ownership of shares.</data>
+  <data key="d3">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Share-Based Compensation">
+  <data key="d0">Share-Based Compensation</data>
+  <data key="d1">category</data>
+  <data key="d2">Share-Based Compensation is an expense related to RSUs that the Company records as part of its financial operations.</data>
+  <data key="d3">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Notes">
+  <data key="d0">Notes</data>
+  <data key="d1">category</data>
+  <data key="d2">Notes are sections within the financial document that provide detailed information on specific financial topics such as debt, income, and compensation.</data>
+  <data key="d3">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829115</data>
+</node>
+<node id="Equity">
+  <data key="d0">Equity</data>
+  <data key="d1">category</data>
+  <data key="d2">Equity refers to the ownership value in the Company represented through shares and is affected by the Share Repurchase Program.</data>
+  <data key="d3">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Americas">
+  <data key="d0">Americas</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Americas reportable segment includes both North and South America and saw an increase in net sales from Services and iPhone.&lt;SEP&gt;The Americas segment reports net sales of $37,472 million and an operating income of $13,914 million for the three months ended June 25, 2022.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Europe">
+  <data key="d0">Europe</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Europe reportable segment experienced net sales increase due mainly to higher iPhone sales but was negatively impacted by currency fluctuations.&lt;SEP&gt;The Europe segment reports net sales of $19,287 million and an operating income of $7,124 million for the three months ended June 25, 2022.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Greater China">
+  <data key="d0">Greater China</data>
+  <data key="d1">geo</data>
+  <data key="d2">Greater China includes mainland China, Hong Kong, and Taiwan and saw a decrease in net sales during the third quarter of 2022 primarily due to lower iPhone sales.&lt;SEP&gt;The Greater China segment reports net sales of $14,604 million and an operating income of $5,760 million for the three months ended June 25, 2022.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Japan">
+  <data key="d0">Japan</data>
+  <data key="d1">geo</data>
+  <data key="d2">Japan experienced a decrease in net sales during the third quarter and first nine months of 2022, affected mainly by lower iPhone and iPad sales.&lt;SEP&gt;Japan is a country mentioned in relation to its net sales affected by currency fluctuations against the U.S. dollar.&lt;SEP&gt;The Japan segment reports net sales of $5,446 million and an operating income of $2,418 million for the three months ended June 25, 2022.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-e25eb41592e94072b3fe995c836426f5&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Rest of Asia Pacific">
+  <data key="d0">Rest of Asia Pacific</data>
+  <data key="d1">geo</data>
+  <data key="d2">Rest of Asia Pacific includes Australia and other Asian countries not covered in other segments, showing an increase in net sales.&lt;SEP&gt;Rest of Asia Pacific refers to a region whose net sales increased due to higher sales of products and services in the third quarter of 2022 compared to the same period in 2021.&lt;SEP&gt;The Rest of Asia Pacific segment reports net sales of $6,150 million and an operating income of $2,367 million for the three months ended June 25, 2022.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-e25eb41592e94072b3fe995c836426f5&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Share-Based Compensation Expense">
+  <data key="d0">Share-Based Compensation Expense</data>
+  <data key="d1">category</data>
+  <data key="d2">Share-Based Compensation Expense refers to the cost incurred by the Company related to stock-based payment to employees, indicated in millions for specified periods.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Income Tax Benefit Related to Share-Based Compensation Expense">
+  <data key="d0">Income Tax Benefit Related to Share-Based Compensation Expense</data>
+  <data key="d1">category</data>
+  <data key="d2">Income Tax Benefit Related to Share-Based Compensation Expense indicates the tax benefits received by the Company due to the share-based compensation expenses, presented in millions for specific periods.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Accrued Warranty">
+  <data key="d0">Accrued Warranty</data>
+  <data key="d1">category</data>
+  <data key="d2">Accrued Warranty refers to the Company's liabilities for warranty claims and related costs, with detailed information over the reporting periods.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="Commitments and Contingencies">
+  <data key="d0">Commitments and Contingencies</data>
+  <data key="d1">category</data>
+  <data key="d2">Commitments and Contingencies encompass the legal proceedings and claims the Company is involved in that are not yet resolved, with a statement about the uncertainty of outcomes.</data>
+  <data key="d3">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829116</data>
+</node>
+<node id="COVID-19 Pandemic">
+  <data key="d0">COVID-19 Pandemic</data>
+  <data key="d1">event</data>
+  <data key="d2">The COVID-19 pandemic is referenced as a factor that may impact Apple's business and results of operations in future projections.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="U.S. Securities and Exchange Commission">
+  <data key="d0">U.S. Securities and Exchange Commission</data>
+  <data key="d1">organization</data>
+  <data key="d2">The U.S. Securities and Exchange Commission (SEC) oversees the securities industry and requires public companies like Apple to file reports such as the Form 10-K.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="MacBook Air">
+  <data key="d0">MacBook Air</data>
+  <data key="d1">category</data>
+  <data key="d2">The MacBook Air is a product introduced by Apple, specifically an all-new model powered by the Apple M2 chip.&lt;SEP&gt;The MacBook Air is a product introduced by the Company that is powered by the new Apple M2 chip.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="MacBook Pro">
+  <data key="d0">MacBook Pro</data>
+  <data key="d1">category</data>
+  <data key="d2">The 13-inch MacBook Pro is a product recently updated by the Company, also powered by the new Apple M2 chip.&lt;SEP&gt;The 13-inch MacBook Pro is an updated product from Apple, powered by the Apple M2 chip, enhancing the company's laptop offerings.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="iOS 16">
+  <data key="d0">iOS 16</data>
+  <data key="d1">category</data>
+  <data key="d2">iOS 16 is an update to Apple's mobile operating system that is part of the product announcements during the third quarter of 2022.&lt;SEP&gt;iOS 16 is an updated operating system announced by the Company, expected to be available in the fall of 2022.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="macOS Ventura">
+  <data key="d0">macOS Ventura</data>
+  <data key="d1">category</data>
+  <data key="d2">macOS Ventura is an update to Apple's operating system for Mac computers, announced alongside other product updates.&lt;SEP&gt;macOS Ventura is another updated operating system announced by the Company, along with iOS 16.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="iPadOS 16">
+  <data key="d0">iPadOS 16</data>
+  <data key="d1">category</data>
+  <data key="d2">iPadOS 16 is an update to the operating system for iPads announced by the Company.&lt;SEP&gt;iPadOS 16 is an updated operating system for Apple's iPad devices, part of the latest software announcements.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="watchOS 9">
+  <data key="d0">watchOS 9</data>
+  <data key="d1">category</data>
+  <data key="d2">watchOS 9 is an update to the operating system for Apple Watch devices, announced as part of the software updates.&lt;SEP&gt;watchOS 9 is the latest version of the operating system for Apple Watches announced by the Company.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829117</data>
+</node>
+<node id="Form 10-Q">
+  <data key="d0">Form 10-Q</data>
+  <data key="d1">category</data>
+  <data key="d2">Form 10-Q is a quarterly report that publicly traded companies must file with the SEC, containing financial information and forward-looking statements.&lt;SEP&gt;Form 10-Q is the specific filing format used by Apple Inc. to present its quarterly financial information to the Securities and Exchange Commission.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829118</data>
+</node>
+<node id="Form 10-K">
+  <data key="d0">Form 10-K</data>
+  <data key="d1">category</data>
+  <data key="d2">Form 10-K is a comprehensive annual report filed by publicly traded companies to the SEC, providing a detailed overview of the company's financial performance.&lt;SEP&gt;Form 10-K is an annual report filed by public companies with the SEC, providing a comprehensive overview of the company's financial condition.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829118</data>
+</node>
+<node id="third quarter of 2022">
+  <data key="d0">third quarter of 2022</data>
+  <data key="d1">event</data>
+  <data key="d2">The third quarter of 2022 refers to the financial period in which Apple reported a 2% increase in total net sales compared to the previous year.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829118</data>
+</node>
+<node id="securities industry">
+  <data key="d0">securities industry</data>
+  <data key="d1">category</data>
+  <data key="d2">The securities industry involves the trading of financial instruments, regulated by organizations like the SEC to ensure transparency and compliance.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829118</data>
+</node>
+<node id="foreign currencies">
+  <data key="d0">foreign currencies</data>
+  <data key="d1">category</data>
+  <data key="d2">Foreign currencies are global currencies that can affect international sales and profits, particularly in relation to the U.S. dollar.</data>
+  <data key="d3">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829118</data>
+</node>
+<node id="U.S. dollar">
+  <data key="d0">U.S. dollar</data>
+  <data key="d1">currency</data>
+  <data key="d2">The U.S. dollar is a currency that had an unfavorable impact on the net sales of Products and Services during the third quarter of 2022.</data>
+  <data key="d3">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829118</data>
+</node>
+<node id="Apple M2 chip">
+  <data key="d0">Apple M2 chip</data>
+  <data key="d1">technology</data>
+  <data key="d2">The Apple M2 chip powers new products introduced by the Company, indicating a technological advancement in their laptops.</data>
+  <data key="d3">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829118</data>
+</node>
+<node id="COVID-19 pandemic">
+  <data key="d0">COVID-19 pandemic</data>
+  <data key="d1">event</data>
+  <data key="d2">The COVID-19 pandemic has significantly impacted global economic activities and operations of the Company, causing disruptions and volatility in financial markets.</data>
+  <data key="d3">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="Products and Services">
+  <data key="d0">Products and Services</data>
+  <data key="d1">category</data>
+  <data key="d2">Products and Services refer to the range of items and services sold by the Company, including iPhones, Macs, iPads, and services.</data>
+  <data key="d3">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="AirPods">
+  <data key="d0">AirPods</data>
+  <data key="d1">category</data>
+  <data key="d2">AirPods are wireless earbuds created by Apple, contributing to their Wearables, Home and Accessories segment sales.&lt;SEP&gt;AirPods are wireless earphones produced by the Company, included in the Wearables, Home and Accessories product category.</data>
+  <data key="d3">chunk-0055a41e0ea7581d107534c00d5324b7&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="Apple Watch">
+  <data key="d0">Apple Watch</data>
+  <data key="d1">category</data>
+  <data key="d2">Apple Watch is a smartwatch developed by Apple and plays a significant role in the Wearables, Home and Accessories segment sales.&lt;SEP&gt;The Apple Watch is a wearable device by the Company, part of the Wearables, Home and Accessories category, which saw varied sales trends.</data>
+  <data key="d3">chunk-0055a41e0ea7581d107534c00d5324b7&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="Supply Shortages">
+  <data key="d0">Supply Shortages</data>
+  <data key="d1">event</data>
+  <data key="d2">Supply shortages experienced by the Company's partners during the COVID-19 pandemic impacted its ability to deliver products.</data>
+  <data key="d3">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="Products">
+  <data key="d0">Products</data>
+  <data key="d1">category</data>
+  <data key="d2">Products refer to the category of goods sold by the Company, which experienced a decrease in gross margin due to various factors including currency weakness.</data>
+  <data key="d3">chunk-e25eb41592e94072b3fe995c836426f5</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="Operating Expenses">
+  <data key="d0">Operating Expenses</data>
+  <data key="d1">category</data>
+  <data key="d2">Operating Expenses refer to the costs incurred by the Company for research and development as well as selling, general, and administrative activities during specific financial periods.</data>
+  <data key="d3">chunk-e25eb41592e94072b3fe995c836426f5</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="Company">
+  <data key="d0">Company</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Company is an organization that emphasizes the importance of research and development (R&amp;D) to foster future growth and enhance its competitive positioning. It strategically relies on outsourcing partners for its manufacturing processes. The Company has recently launched new products, including the MacBook Air and MacBook Pro, and has engaged in significant financial activities, such as repurchasing common stock during the third quarter of 2022.
+
+In addition to its product innovations, the Company is active in various financial operations, which include the issuance of commercial paper and term debt. It manages marketable securities, particularly focusing on debt instruments and utilizes a range of financial strategies, such as hedging against foreign exchange and interest rate fluctuations. The Company's financial management extends to providing detailed financial summaries that encompass share-based compensation expenses and accrued warranties, with specific data available for different reporting periods.
+
+Despite the lack of a specific identity in some references, the Company is associated with its financial performance metrics, including gross margins and operating expenses. It manages its operations geographically, with distinct reportable segments across various global regions. Furthermore, the Company is recognized for its involvement in trading and comprehensive financial activities, which include the management of derivatives, receivables, and financial statements.</data>
+  <data key="d3">chunk-e25eb41592e94072b3fe995c836426f5&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7&lt;SEP&gt;chunk-f867fff1e5b5919356b6b58b89c2068d&lt;SEP&gt;chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41&lt;SEP&gt;chunk-5667be7ee814f9325edc15416624ae7d&lt;SEP&gt;chunk-7b38246babae9e937abd3337e578e39c&lt;SEP&gt;chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829119</data>
+</node>
+<node id="Research and Development">
+  <data key="d0">Research and Development</data>
+  <data key="d1">category</data>
+  <data key="d2">Research and Development denotes the expenses incurred by the Company aimed at innovation and improvement of products and services.</data>
+  <data key="d3">chunk-e25eb41592e94072b3fe995c836426f5</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="R&amp;D Expense">
+  <data key="d0">R&amp;D Expense</data>
+  <data key="d1">category</data>
+  <data key="d2">R&amp;D Expense refers to costs associated with research and development initiatives aimed at producing new and updated products.</data>
+  <data key="d3">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Selling, General and Administrative Expense">
+  <data key="d0">Selling, General and Administrative Expense</data>
+  <data key="d1">category</data>
+  <data key="d2">Selling, General and Administrative Expense includes costs related to headcount, advertising, and professional services essential for operation.</data>
+  <data key="d3">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Liquidity and Capital Resources">
+  <data key="d0">Liquidity and Capital Resources</data>
+  <data key="d1">category</data>
+  <data key="d2">Liquidity and Capital Resources encompasses cash balances and securities used to meet cash requirements and capital programs.</data>
+  <data key="d3">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Manufacturing Purchase Obligations">
+  <data key="d0">Manufacturing Purchase Obligations</data>
+  <data key="d1">category</data>
+  <data key="d2">Manufacturing Purchase Obligations represent commitments for purchasing from suppliers and outsourcing partners for production.</data>
+  <data key="d3">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Effective Tax Rate">
+  <data key="d0">Effective Tax Rate</data>
+  <data key="d1">category</data>
+  <data key="d2">The Effective Tax Rate reflects the rate at which the Company is taxed on its earnings, affected by various tax benefits and regulations.</data>
+  <data key="d3">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Other Income/(Expense), Net">
+  <data key="d0">Other Income/(Expense), Net</data>
+  <data key="d1">category</data>
+  <data key="d2">Other Income/(Expense), Net refers to the financial summary of income and expenses outside of regular operational activities, detailing gains and losses over specified periods.</data>
+  <data key="d3">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Provision for Income Taxes">
+  <data key="d0">Provision for Income Taxes</data>
+  <data key="d1">category</data>
+  <data key="d2">Provision for Income Taxes outlines the Company's tax obligations for specific periods, highlighting effective rates and comparisons to federal rates.</data>
+  <data key="d3">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="The Company">
+  <data key="d0">The Company</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Company is involved in manufacturing, utilizing outsourcing partners for subassembly and final assembly of products, and has financial obligations totaling $43.1 billion.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Epic Games, Inc.">
+  <data key="d0">Epic Games, Inc.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Epic Games, Inc. is a video game and software company that has filed a lawsuit against The Company concerning antitrust laws and competition issues.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829120</data>
+</node>
+<node id="Northern California District Court">
+  <data key="d0">Northern California District Court</data>
+  <data key="d1">event</data>
+  <data key="d2">The Northern California District Court is the judicial body where Epic Games filed a lawsuit against The Company regarding antitrust violations.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="Board of Directors">
+  <data key="d0">Board of Directors</data>
+  <data key="d1">person</data>
+  <data key="d2">The Board of Directors at Apple Inc. is responsible for overseeing the company’s management and making significant decisions regarding corporate policies and stock repurchases.&lt;SEP&gt;The Board of Directors is the governing body of The Company that oversees decisions including share repurchase programs and dividend declarations.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="2021 Form 10-K">
+  <data key="d0">2021 Form 10-K</data>
+  <data key="d1">category</data>
+  <data key="d2">The 2021 Form 10-K is a comprehensive report submitted to the SEC by The Company, detailing its financial condition, risks, and management's practices.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="App Store Review Guidelines">
+  <data key="d0">App Store Review Guidelines</data>
+  <data key="d1">category</data>
+  <data key="d2">The App Store Review Guidelines are rules established by The Company that govern the operation of its App Store and have been contested legally by Epic Games.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="September 10, 2021">
+  <data key="d0">September 10, 2021</data>
+  <data key="d1">event</data>
+  <data key="d2">On September 10, 2021, the Northern California District Court ruled on several counts in the lawsuit filed by Epic Games against The Company.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="U.S. District Court">
+  <data key="d0">U.S. District Court</data>
+  <data key="d1">event</data>
+  <data key="d2">The U.S. District Court is a federal court where Epic Games filed its lawsuit against The Company alleging violations of antitrust laws.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="Company's market risk disclosures">
+  <data key="d0">Company's market risk disclosures</data>
+  <data key="d1">category</data>
+  <data key="d2">The Company's market risk disclosures highlight the factors that may affect the Company’s financial performance and operations, as outlined in the 2021 Form 10-K.</data>
+  <data key="d3">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="Katherine L. Adams">
+  <data key="d0">Katherine L. Adams</data>
+  <data key="d1">person</data>
+  <data key="d2">Katherine L. Adams is an officer at Apple Inc. who had an equity trading plan in place during the reporting period.</data>
+  <data key="d3">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="Timothy D. Cook">
+  <data key="d0">Timothy D. Cook</data>
+  <data key="d1">person</data>
+  <data key="d2">Timothy D. Cook is the Chief Executive Officer of Apple Inc. and certified the quarterly report on behalf of the company.&lt;SEP&gt;Timothy D. Cook is the Chief Executive Officer of Apple Inc. mentioned in relation to equity trading plans.&lt;SEP&gt;Timothy D. Cook is the Chief Executive Officer of Apple Inc., who certified the company's compliance with the Sarbanes-Oxley Act in the report.</data>
+  <data key="d3">chunk-a3950ef8021814e5f600e35d4cad03d8&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="Luca Maestri">
+  <data key="d0">Luca Maestri</data>
+  <data key="d1">person</data>
+  <data key="d2">Luca Maestri is the Chief Financial Officer of Apple Inc. who had an equity trading plan in the reporting period.&lt;SEP&gt;Luca Maestri is the Senior Vice President and Chief Financial Officer of Apple Inc., also involved in certifying the company's financial reporting compliance.&lt;SEP&gt;Luca Maestri is the Senior Vice President and Chief Financial Officer of Apple Inc., who certified the accuracy of the quarterly report.</data>
+  <data key="d3">chunk-a3950ef8021814e5f600e35d4cad03d8&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="Deirdre O'Brien">
+  <data key="d0">Deirdre O'Brien</data>
+  <data key="d1">person</data>
+  <data key="d2">Deirdre O'Brien is an officer at Apple Inc. associated with the company's equity trading plans during the reported period.</data>
+  <data key="d3">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829121</data>
+</node>
+<node id="Jeffrey Williams">
+  <data key="d0">Jeffrey Williams</data>
+  <data key="d1">person</data>
+  <data key="d2">Jeffrey Williams is also an officer at Apple Inc. and had an equity trading plan during the reporting period.</data>
+  <data key="d3">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Program">
+  <data key="d0">Program</data>
+  <data key="d1">category</data>
+  <data key="d2">The Program refers to Apple Inc.'s stock repurchase plan that allows the company to buy back its own shares under certain conditions.</data>
+  <data key="d3">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Quarterly Report on Form 10-Q">
+  <data key="d0">Quarterly Report on Form 10-Q</data>
+  <data key="d1">event</data>
+  <data key="d2">The Quarterly Report on Form 10-Q is a financial document that Apple Inc. files to provide its financial status for the quarter.</data>
+  <data key="d3">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Equity Trading Plans">
+  <data key="d0">Equity Trading Plans</data>
+  <data key="d1">category</data>
+  <data key="d2">Equity Trading Plans are pre-established plans that allow officers of Apple Inc. to make stock trades according to a predetermined schedule and criteria.</data>
+  <data key="d3">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Rule 10b5-1">
+  <data key="d0">Rule 10b5-1</data>
+  <data key="d1">category</data>
+  <data key="d2">Rule 10b5-1 establishes guidelines for companies and their insiders to create trading plans for buying or selling stocks in compliance with insider trading regulations.</data>
+  <data key="d3">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Q3 2022 Form 10-Q">
+  <data key="d0">Q3 2022 Form 10-Q</data>
+  <data key="d1">event</data>
+  <data key="d2">Q3 2022 Form 10-Q is a financial report filed by Apple Inc. detailing its financial performance for the third quarter of 2022.</data>
+  <data key="d3">chunk-a3950ef8021814e5f600e35d4cad03d8</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="July 28, 2022">
+  <data key="d0">July 28, 2022</data>
+  <data key="d1">event</data>
+  <data key="d2">July 28, 2022, is the date on which the quarterly report was certified by the executives of Apple Inc.</data>
+  <data key="d3">chunk-a3950ef8021814e5f600e35d4cad03d8</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Quarterly Report">
+  <data key="d0">Quarterly Report</data>
+  <data key="d1">event</data>
+  <data key="d2">The Quarterly Report refers to the document detailing Apple Inc.'s financial conditions and operations for the specified period, ending June 25, 2022.</data>
+  <data key="d3">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Sarbanes-Oxley Act of 2002">
+  <data key="d0">Sarbanes-Oxley Act of 2002</data>
+  <data key="d1">category</data>
+  <data key="d2">The Sarbanes-Oxley Act of 2002 is a U.S. federal law aimed at protecting investors from fraudulent financial reporting by corporations.</data>
+  <data key="d3">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Quarterly Report of Apple Inc.">
+  <data key="d0">Quarterly Report of Apple Inc.</data>
+  <data key="d1">event</data>
+  <data key="d2">The Quarterly Report of Apple Inc. is a financial document that provides details about the company's financial condition and results of operations for the period ending June 25, 2022.</data>
+  <data key="d3">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Senior Vice President">
+  <data key="d0">Senior Vice President</data>
+  <data key="d1">person</data>
+  <data key="d2">The Senior Vice President holds a high-ranking position within the corporate structure of Apple Inc., specifically overseeing financial matters as the Chief Financial Officer.</data>
+  <data key="d3">chunk-6522ee288dda614a176d0693133b250e</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Securities and Exchange Commission">
+  <data key="d0">Securities and Exchange Commission</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Securities and Exchange Commission is a U.S. government agency responsible for enforcing federal securities laws and regulating the securities industry.</data>
+  <data key="d3">chunk-6522ee288dda614a176d0693133b250e</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829122</data>
+</node>
+<node id="Subtotal">
+  <data key="d0">Subtotal</data>
+  <data key="d3">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d2">Money Market Funds contribute to the subtotal amount presented in the financial breakdown.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829153</data>
+</node>
+<node id="Other Income/(Expense)">
+  <data key="d0">Other Income/(Expense)</data>
+  <data key="d3">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d2">The Company reports Other Income/(Expense) to illustrate additional earnings or losses outside of standard operations.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d5">1754829177</data>
+</node>
+<edge source="United States Securities and Exchange Commission" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. is regulated by the United States Securities and Exchange Commission, which oversees its compliance with securities laws.</data>
+  <data key="d8">compliance,regulatory oversight</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829124</data>
+</edge>
+<edge source="Cupertino" target="Apple Inc.">
+  <data key="d6">7.0</data>
+  <data key="d7">Cupertino is the location of Apple Inc.'s headquarters, where the company's principal operations are based.</data>
+  <data key="d8">location,organizational headquarters</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829125</data>
+</edge>
+<edge source="FORM 10-Q" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple Inc. files the FORM 10-Q to report its financial performance and comply with SEC regulations.</data>
+  <data key="d8">compliance,financial reporting</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829123</data>
+</edge>
+<edge source="California" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">California is the state where Apple Inc. is incorporated and operates its main facilities.</data>
+  <data key="d8">operational base,state of incorporation</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829126</data>
+</edge>
+<edge source="California" target="Epic Games, Inc.">
+  <data key="d6">7.0</data>
+  <data key="d7">Epic Games, Inc.'s lawsuit is filed in California, indicating the geographical location relevant to the legal proceedings against The Company.</data>
+  <data key="d8">geographical context,legal jurisdiction</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829207</data>
+</edge>
+<edge source="Securities Exchange Act of 1934" target="Apple Inc.">
+  <data key="d6">19.0</data>
+  <data key="d7">Apple Inc. is required to comply with the regulations set forth by the Securities Exchange Act of 1934 in its financial reporting.&lt;SEP&gt;Apple Inc.'s compliance to file the quarterly report is in accordance with the requirements set by the Securities Exchange Act of 1934.</data>
+  <data key="d8">financial regulation,financial reporting,regulatory adherence,regulatory compliance</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829215</data>
+</edge>
+<edge source="Securities Exchange Act of 1934" target="Form 10-Q">
+  <data key="d6">8.0</data>
+  <data key="d7">Form 10-Q is filed as part of compliance with the Securities Exchange Act of 1934 for periodic disclosure of financial information.</data>
+  <data key="d8">regulatory reporting,transparency</data>
+  <data key="d9">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829216</data>
+</edge>
+<edge source="Commission File Number: 001-36743" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">The Commission File Number: 001-36743 is associated with Apple Inc.'s filings, indicating their regulatory identification with the SEC.</data>
+  <data key="d8">compliance,regulatory identification</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829126</data>
+</edge>
+<edge source="1.000% Notes due 2022" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 1.000% Notes due 2022 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829127</data>
+</edge>
+<edge source="1.375% Notes due 2024" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 1.375% Notes due 2024 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829128</data>
+</edge>
+<edge source="0.000% Notes due 2025" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 0.000% Notes due 2025 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829129</data>
+</edge>
+<edge source="0.875% Notes due 2025" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 0.875% Notes due 2025 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829129</data>
+</edge>
+<edge source="1.625% Notes due 2026" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 1.625% Notes due 2026 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829130</data>
+</edge>
+<edge source="2.000% Notes due 2027" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 2.000% Notes due 2027 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829131</data>
+</edge>
+<edge source="1.375% Notes due 2029" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 1.375% Notes due 2029 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829132</data>
+</edge>
+<edge source="3.050% Notes due 2029" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 3.050% Notes due 2029 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829133</data>
+</edge>
+<edge source="0.500% Notes due 2031" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 0.500% Notes due 2031 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829133</data>
+</edge>
+<edge source="3.600% Notes due 2042" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. issued the 3.600% Notes due 2042 as part of its financing strategy through bond offerings.</data>
+  <data key="d8">bond offering,financing</data>
+  <data key="d9">chunk-b71ead0c8d7279baa2fc8b1f22e90c61</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829134</data>
+</edge>
+<edge source="Net Sales" target="Operating Income">
+  <data key="d6">10.0</data>
+  <data key="d7">Operating Income is derived from subtracting Cost of Sales and Operating Expenses from Net Sales, indicating Apple's operational efficiency.</data>
+  <data key="d8">financial metrics,operational efficiency</data>
+  <data key="d9">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829131</data>
+</edge>
+<edge source="Net Sales" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Net Sales are a financial metric provided in Apple Inc.'s financial statements, reflecting its revenue-generating activities.</data>
+  <data key="d8">financial performance,revenue</data>
+  <data key="d9">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829135</data>
+</edge>
+<edge source="Net Sales" target="Company">
+  <data key="d6">9.0</data>
+  <data key="d7">Net Sales illustrate the Company's financial performance over time, reflecting the impact of product launches and market conditions.</data>
+  <data key="d8">financial metrics,revenue performance</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829198</data>
+</edge>
+<edge source="Cost of Sales" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Cost of Sales is reported in Apple Inc.'s financial statements and indicates the expenses incurred to generate its sales.</data>
+  <data key="d8">cost management,financial reporting</data>
+  <data key="d9">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829136</data>
+</edge>
+<edge source="Operating Income" target="Net Income">
+  <data key="d6">9.0</data>
+  <data key="d7">Net Income is determined after accounting for all expenses, including Operating Income, showcasing the overall profitability of Apple Inc.</data>
+  <data key="d8">financial results,profitability</data>
+  <data key="d9">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829132</data>
+</edge>
+<edge source="Income Before Provision for Income Taxes" target="Net Income">
+  <data key="d6">7.0</data>
+  <data key="d7">Net Income results from Income Before Provision for Income Taxes, reflecting total earnings after tax deductions.</data>
+  <data key="d8">earnings calculation,financial performance</data>
+  <data key="d9">chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829133</data>
+</edge>
+<edge source="Net Income" target="Earnings Per Share">
+  <data key="d6">18.0</data>
+  <data key="d7">Earnings Per Share is calculated using the Net Income, providing investors with a measure of profitability per share of Apple Inc.'s stock.&lt;SEP&gt;Net income is used to calculate earnings per share, reflecting Apple Inc.'s profitability in the given periods.</data>
+  <data key="d8">financial metrics,profitability,profitability measure,shareholder value</data>
+  <data key="d9">chunk-e7437b99c615a34439968b5a79b309ee&lt;SEP&gt;chunk-57ff97c834d7cccfd9c2e63695a516a9</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829133</data>
+</edge>
+<edge source="June 25, 2022" target="Apple Inc.">
+  <data key="d6">16.0</data>
+  <data key="d7">Apple Inc. reports financial performance on June 25, 2022, indicating operating results for that period.&lt;SEP&gt;The financial data of Apple Inc. is reported for the date June 25, 2022, showcasing the company's performance on that date.</data>
+  <data key="d8">financial reporting,operating results,performance analysis</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29&lt;SEP&gt;chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829137</data>
+</edge>
+<edge source="June 26, 2021" target="Apple Inc.">
+  <data key="d6">14.0</data>
+  <data key="d7">Apple Inc. compares its financial performance on June 26, 2021, with that of the more recent period.&lt;SEP&gt;The financial data of Apple Inc. includes comparisons with the prior reporting date June 26, 2021, for performance evaluation.</data>
+  <data key="d8">financial comparison,historical analysis,year-over-year</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29&lt;SEP&gt;chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829137</data>
+</edge>
+<edge source="Condensed Consolidated Financial Statements" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">The Condensed Consolidated Financial Statements provide key insights into the financial condition and operational results of Apple Inc.</data>
+  <data key="d8">corporate reporting,financial overview</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829138</data>
+</edge>
+<edge source="Marketable Debt Securities" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Marketable Debt Securities are accounted for in Apple Inc.'s financial statements, showing changes in value over the reporting periods.</data>
+  <data key="d8">asset management,financial instruments</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829139</data>
+</edge>
+<edge source="Accounts Receivable" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Accounts Receivable form part of the current asset category in Apple Inc.'s financial statements, showing amounts due from customers.</data>
+  <data key="d8">financial assets,revenue collection</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829140</data>
+</edge>
+<edge source="Accounts Receivable" target="Company">
+  <data key="d6">9.0</data>
+  <data key="d7">The Company's Accounts Receivable reflect outstanding payments due from customers as part of its sales operations.</data>
+  <data key="d8">credit management,financial assets</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829179</data>
+</edge>
+<edge source="Inventories" target="Apple Inc.">
+  <data key="d6">7.0</data>
+  <data key="d7">Inventories are reported in Apple Inc.'s current assets, reflecting stock available for sale.</data>
+  <data key="d8">business operations,inventory management</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829141</data>
+</edge>
+<edge source="Vendor Non-Trade Receivables" target="Apple Inc.">
+  <data key="d6">7.0</data>
+  <data key="d7">Vendor Non-Trade Receivables contribute to the total current assets in Apple Inc.'s financial position.</data>
+  <data key="d8">financial assets,vendor relations</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829142</data>
+</edge>
+<edge source="Vendor Non-Trade Receivables" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company has Vendor Non-Trade Receivables which indicate financial relationships with manufacturing vendors for components.</data>
+  <data key="d8">financial management,vendor relations</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829174</data>
+</edge>
+<edge source="Total Assets" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Total Assets aggregate all financial resources available to Apple Inc. for operational use, recorded in the financial statements.</data>
+  <data key="d8">financial health,resource allocation</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829142</data>
+</edge>
+<edge source="Total Current Liabilities" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Total Current Liabilities represent the short-term obligations Apple Inc. must settle, impacting its liquidity status.</data>
+  <data key="d8">financial obligations,liquidity management</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829143</data>
+</edge>
+<edge source="Total Liabilities" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Total Liabilities summarize the total obligations of Apple Inc., reflecting its financial obligations towards creditors.</data>
+  <data key="d8">debt management,financial obligation</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829144</data>
+</edge>
+<edge source="Shareholders' Equity" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Shareholders' Equity indicates the ownership interest in Apple Inc. after liabilities are paid, important for assessing company value.</data>
+  <data key="d8">equity finance,ownership interest</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829145</data>
+</edge>
+<edge source="Common Stock" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Common Stock is part of the equity section in Apple Inc.'s balance sheet, representing ownership stakes.</data>
+  <data key="d8">equity financing,ownership</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829146</data>
+</edge>
+<edge source="Term Debt" target="Apple Inc.">
+  <data key="d6">7.0</data>
+  <data key="d7">Term Debt forms part of Apple Inc.'s liability structure, highlighting long-term financial commitments.</data>
+  <data key="d8">debt structure,financial obligations</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829147</data>
+</edge>
+<edge source="Term Debt" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company has outstanding Term Debt to finance its operations over longer periods.</data>
+  <data key="d8">corporate funding,long-term financing</data>
+  <data key="d9">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829180</data>
+</edge>
+<edge source="Other Current Liabilities" target="Apple Inc.">
+  <data key="d6">7.0</data>
+  <data key="d7">Other Current Liabilities include various short-term financial obligations that Apple Inc. must manage in its operations.</data>
+  <data key="d8">financial responsibilities,liability management</data>
+  <data key="d9">chunk-90c9104a7c07e74d133bfa9c77882c18</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829148</data>
+</edge>
+<edge source="Cash Flow Statements" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple Inc.'s financial health is assessed through its Cash Flow Statements which detail cash movements across periods.</data>
+  <data key="d8">cash management,financial analysis</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829148</data>
+</edge>
+<edge source="Total Shareholders' Equity" target="Common Stock and Additional Paid-in Capital">
+  <data key="d6">7.0</data>
+  <data key="d7">Common stock and additional paid-in capital are components that contribute to the total shareholders' equity of Apple Inc.</data>
+  <data key="d8">equity structure,financial reporting</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829144</data>
+</edge>
+<edge source="Total Shareholders' Equity" target="Retained Earnings">
+  <data key="d6">9.0</data>
+  <data key="d7">Retained earnings are part of total shareholders' equity, indicating the accumulation of profits not distributed as dividends.</data>
+  <data key="d8">equity component,profit retention</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829145</data>
+</edge>
+<edge source="Total Shareholders' Equity" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Total shareholders' equity provides a summary of the net worth of Apple Inc., detailing the value attributed to the shareholders as reported in financial statements.</data>
+  <data key="d8">equity evaluation,financial health</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829149</data>
+</edge>
+<edge source="Retained Earnings" target="Dividends and Dividend Equivalents Declared">
+  <data key="d6">8.0</data>
+  <data key="d7">Dividends declared reduce the retained earnings, affecting the total shareholders' equity of Apple Inc.</data>
+  <data key="d8">dividend impact,financial management</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829146</data>
+</edge>
+<edge source="Operating Activities" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Operating activities detail how Apple Inc. generates cash from its regular business operations, which is crucial for its financial reporting.</data>
+  <data key="d8">cash generation,core operations</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829150</data>
+</edge>
+<edge source="Investing Activities" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Investing activities summarize the cash flows for investments and acquisitions, reflecting Apple Inc.'s strategy for asset management.</data>
+  <data key="d8">asset management,investment flows</data>
+  <data key="d9">chunk-9dbe6d709d1185c6069516ffa0ff9c29</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829151</data>
+</edge>
+<edge source="Fiscal Year 2022" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Fiscal Year 2022 reflects the financial performance and accounting methods utilized by Apple Inc. for that period.</data>
+  <data key="d8">accounting period,financial performance</data>
+  <data key="d9">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829152</data>
+</edge>
+<edge source="Fiscal Year 2021" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Fiscal Year 2021 serves as a comparative accounting period to Fiscal Year 2022 for Apple Inc.'s financial results.</data>
+  <data key="d8">financial performance,year comparison</data>
+  <data key="d9">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829152</data>
+</edge>
+<edge source="Payments for Dividends and Dividend Equivalents" target="Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">Payments for dividends and dividend equivalents are made by Apple Inc. to distribute earnings to shareholders.</data>
+  <data key="d8">financial obligation,shareholder return</data>
+  <data key="d9">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829153</data>
+</edge>
+<edge source="Repurchases of Common Stock" target="Apple Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple Inc. engages in repurchases of common stock as a strategy to enhance shareholder value by reducing the number of outstanding shares.</data>
+  <data key="d8">shareholder value,stock management</data>
+  <data key="d9">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829154</data>
+</edge>
+<edge source="Proceeds from Issuance of Term Debt" target="Cash Used in Financing Activities">
+  <data key="d6">7.0</data>
+  <data key="d7">Proceeds from issuance of term debt contribute to cash used in financing activities, indicating Apple Inc.'s borrowing practices.</data>
+  <data key="d8">corporate financing,financial strategies</data>
+  <data key="d9">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829149</data>
+</edge>
+<edge source="Cash Used in Investing Activities" target="Cash Used in Financing Activities">
+  <data key="d6">6.0</data>
+  <data key="d7">Cash used in investing activities and cash used in financing activities reflect the overall financial management strategies employed by Apple Inc.</data>
+  <data key="d8">corporate strategy,financial management</data>
+  <data key="d9">chunk-e7437b99c615a34439968b5a79b309ee</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829150</data>
+</edge>
+<edge source="Apple" target="iPhone">
+  <data key="d6">10.0</data>
+  <data key="d7">Apple generates significant revenue through the sales of iPhone products, indicating a direct relationship between the organization and the category of its products.</data>
+  <data key="d8">product sales,revenue generation</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829150</data>
+</edge>
+<edge source="Apple" target="Mac">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple generates revenues from the sales of Mac computers, establishing a financial relationship between the organization and its product category.</data>
+  <data key="d8">product sales,revenue generation</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829151</data>
+</edge>
+<edge source="Apple" target="iPad">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple's iPad sales contribute to its overall financial performance, linking the organization with this product category.</data>
+  <data key="d8">product sales,revenue generation</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829152</data>
+</edge>
+<edge source="Apple" target="Wearables, Home and Accessories">
+  <data key="d6">8.0</data>
+  <data key="d7">The sales from wearables and home accessories further enhance Apple's revenue, signifying the connection between the organization and this category.</data>
+  <data key="d8">product sales,revenue generation</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829153</data>
+</edge>
+<edge source="Apple" target="Services">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple's service offerings are an essential part of its revenue stream, illustrating the organization's relationship with this category.</data>
+  <data key="d8">product sales,revenue generation</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829153</data>
+</edge>
+<edge source="Apple" target="Cash and Cash Equivalents">
+  <data key="d6">8.0</data>
+  <data key="d7">Cash and Cash Equivalents represent Apple's immediate liquid resources related to its financial stability.</data>
+  <data key="d8">financial resources,liquidity</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829154</data>
+</edge>
+<edge source="Apple" target="Marketable Securities">
+  <data key="d6">7.0</data>
+  <data key="d7">Marketable Securities are part of Apple's investment and liquidity strategy, linking the organization with these financial instruments.</data>
+  <data key="d8">financial resources,investment</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829156</data>
+</edge>
+<edge source="Apple" target="Deferred Revenue">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple has a total deferred revenue of $12.2 billion, illustrating a significant financial relationship between the organization and its financial management of future revenues.</data>
+  <data key="d8">accounting policy,financial management</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829157</data>
+</edge>
+<edge source="Apple" target="Significant Products and Services">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple's significant products and services are vital components of its revenue structure, indicating a direct linkage between the organization and these categories.</data>
+  <data key="d8">product contribution,revenue generation</data>
+  <data key="d9">chunk-5a43c76c15ee273f3b6fe6342d05581c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829157</data>
+</edge>
+<edge source="iPhone" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company’s iPhone net sales increased, contributing positively to its overall financial performance.</data>
+  <data key="d8">product success,sales growth</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829194</data>
+</edge>
+<edge source="iPhone" target="Americas">
+  <data key="d6">9.0</data>
+  <data key="d7">Higher net sales of iPhone contributed to the overall growth in the Americas segment during the third quarter of 2022.</data>
+  <data key="d8">product impact,sales increase</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829197</data>
+</edge>
+<edge source="iPhone" target="Europe">
+  <data key="d6">8.0</data>
+  <data key="d7">The iPhone's sales growth in Europe supported the overall increase in the segment's net sales.</data>
+  <data key="d8">market performance,product impact</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829198</data>
+</edge>
+<edge source="iPhone" target="Greater China">
+  <data key="d6">8.0</data>
+  <data key="d7">Lower net sales of iPhone were a primary reason for the decrease in the Greater China segment in the third quarter.</data>
+  <data key="d8">market performance,sales decline</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829199</data>
+</edge>
+<edge source="iPhone" target="Japan">
+  <data key="d6">8.0</data>
+  <data key="d7">The decline in net sales of iPhone contributed to the overall performance drop in the Japan segment.</data>
+  <data key="d8">market impact,sales decline</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829199</data>
+</edge>
+<edge source="Mac" target="Americas">
+  <data key="d6">7.0</data>
+  <data key="d7">Lower net sales of Mac affected the growth potential in the Americas segment during the third quarter of 2022.</data>
+  <data key="d8">sales decline,segment impact</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829199</data>
+</edge>
+<edge source="Mac" target="Europe">
+  <data key="d6">7.0</data>
+  <data key="d7">Mac sales were negatively impacted in Europe due to decreased demand in the third quarter of 2022.</data>
+  <data key="d8">regional impact,sales decline</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829200</data>
+</edge>
+<edge source="iPad" target="Company">
+  <data key="d6">6.0</data>
+  <data key="d7">iPad sales decreased, indicating challenges in the product category for the Company during the third quarter of 2022.</data>
+  <data key="d8">business challenge,sales decline</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829195</data>
+</edge>
+<edge source="Wearables, Home and Accessories" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">The sales performance of Wearables, Home and Accessories reflected varying trends over the periods reviewed by the Company.</data>
+  <data key="d8">product category,sales variability</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829196</data>
+</edge>
+<edge source="Cash and Cash Equivalents" target="September 25, 2021">
+  <data key="d6">6.0</data>
+  <data key="d7">The date of September 25, 2021 is noted in relation to the cash and cash equivalents balances presented in the financial report.</data>
+  <data key="d8">date relevance,financial reporting</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829157</data>
+</edge>
+<edge source="Cash and Cash Equivalents" target="Current Marketable Securities">
+  <data key="d6">8.0</data>
+  <data key="d7">Cash and Cash Equivalents are part of the overall liquidity context including Current Marketable Securities.</data>
+  <data key="d8">financial metrics,liquidity</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829158</data>
+</edge>
+<edge source="Apple Inc." target="COVID-19 Pandemic">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. mentions the COVID-19 pandemic as a risk factor that may affect its future business performance.</data>
+  <data key="d8">business impact,risk factor</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829184</data>
+</edge>
+<edge source="Apple Inc." target="U.S. Securities and Exchange Commission">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple Inc. is required to file reports with the U.S. Securities and Exchange Commission, indicating regulatory compliance.</data>
+  <data key="d8">regulatory compliance,reporting</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829185</data>
+</edge>
+<edge source="Apple Inc." target="MacBook Air">
+  <data key="d6">8.0</data>
+  <data key="d7">The introduction of the new MacBook Air is a significant product development by Apple Inc., affecting its sales and operations.</data>
+  <data key="d8">product launch,sales impact</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829186</data>
+</edge>
+<edge source="Apple Inc." target="MacBook Pro">
+  <data key="d6">8.0</data>
+  <data key="d7">The updated MacBook Pro represents a key product update in Apple's range of offerings, contributing to sales increases.</data>
+  <data key="d8">product update,sales impact</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829186</data>
+</edge>
+<edge source="Apple Inc." target="iOS 16">
+  <data key="d6">7.0</data>
+  <data key="d7">The announcement of iOS 16 indicates Apple's ongoing commitment to enhancing its software ecosystem.</data>
+  <data key="d8">ecosystem enhancement,software update</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829187</data>
+</edge>
+<edge source="Apple Inc." target="macOS Ventura">
+  <data key="d6">7.0</data>
+  <data key="d7">macOS Ventura's announcement shows Apple's strategy to update and improve its operating systems regularly.</data>
+  <data key="d8">regular enhancement,software update</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829188</data>
+</edge>
+<edge source="Apple Inc." target="iPadOS 16">
+  <data key="d6">7.0</data>
+  <data key="d7">The update to iPadOS 16 illustrates the company's focus on improving product features across its device range.</data>
+  <data key="d8">product improvement,software update</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829189</data>
+</edge>
+<edge source="Apple Inc." target="watchOS 9">
+  <data key="d6">7.0</data>
+  <data key="d7">watchOS 9 being announced showcases Apple's continuous innovation in wearables and operating systems.</data>
+  <data key="d8">innovation,wearable technology</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829190</data>
+</edge>
+<edge source="Apple Inc." target="Form 10-Q">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. files the Form 10-Q as a part of its regulatory obligations to provide quarterly financial updates to investors.</data>
+  <data key="d8">financial reporting,regulatory compliance</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829191</data>
+</edge>
+<edge source="Apple Inc." target="Form 10-K">
+  <data key="d6">18.0</data>
+  <data key="d7">Apple Inc. files the Form 10-K annually to provide comprehensive financial details to the SEC, which is critical for investors.&lt;SEP&gt;Form 10-K is used by Apple Inc. to report its annual financial performance to the SEC, which may include risk factors affecting the company.</data>
+  <data key="d8">annual reporting,financial disclosure,regulatory compliance</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829192</data>
+</edge>
+<edge source="Apple Inc." target="third quarter of 2022">
+  <data key="d6">8.0</data>
+  <data key="d7">The financial results reported for the third quarter of 2022 reflect Apple Inc.'s performance and sales comparisons for that period.</data>
+  <data key="d8">financial performance,reporting period</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829192</data>
+</edge>
+<edge source="Apple Inc." target="Katherine L. Adams">
+  <data key="d6">8.0</data>
+  <data key="d7">Katherine L. Adams is an officer at Apple Inc. who engages in equity trading plans related to the company's stock.</data>
+  <data key="d8">corporate governance,officer role</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829207</data>
+</edge>
+<edge source="Apple Inc." target="Timothy D. Cook">
+  <data key="d6">27.0</data>
+  <data key="d7">Timothy D. Cook is the Chief Executive Officer of Apple Inc., indicating a leadership relationship.&lt;SEP&gt;Timothy D. Cook serves as the CEO of Apple Inc., overseeing the company and its operations including trading plans.&lt;SEP&gt;Timothy D. Cook, as CEO, certifies the accuracy of the financial report of Apple Inc..</data>
+  <data key="d8">accountability,corporate governance,corporate strategy,executive certification,leadership</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829208</data>
+</edge>
+<edge source="Apple Inc." target="Luca Maestri">
+  <data key="d6">25.0</data>
+  <data key="d7">Luca Maestri acts as the CFO of Apple Inc., playing a crucial role in financial reporting and trading plans.&lt;SEP&gt;Luca Maestri serves as the Chief Financial Officer of Apple Inc., indicating a financial leadership relationship.&lt;SEP&gt;Luca Maestri, as CFO, is a key executive responsible for the financial statements of Apple Inc. as presented in the report.</data>
+  <data key="d8">corporate governance,corporate structure,executive role,financial governance,financial management,financial oversight</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8&lt;SEP&gt;chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e&lt;SEP&gt;chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829209</data>
+</edge>
+<edge source="Apple Inc." target="Deirdre O'Brien">
+  <data key="d6">7.0</data>
+  <data key="d7">Deirdre O'Brien, as an officer of Apple Inc., is involved in executing the company's equity trading strategies.</data>
+  <data key="d8">corporate governance,officer role</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829209</data>
+</edge>
+<edge source="Apple Inc." target="Jeffrey Williams">
+  <data key="d6">7.0</data>
+  <data key="d7">Jeffrey Williams is involved with the equity trading plans of Apple Inc. as one of its officers.</data>
+  <data key="d8">corporate governance,officer role</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829211</data>
+</edge>
+<edge source="Apple Inc." target="Quarterly Report on Form 10-Q">
+  <data key="d6">9.0</data>
+  <data key="d7">The Quarterly Report on Form 10-Q provides details on Apple's financial operations including stock repurchase activities.</data>
+  <data key="d8">corporate disclosure,financial reporting</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829211</data>
+</edge>
+<edge source="Apple Inc." target="Board of Directors">
+  <data key="d6">9.0</data>
+  <data key="d7">The Board of Directors oversees Apple Inc. and is involved in approving equity decisions and corporate governance policies.</data>
+  <data key="d8">corporate governance,oversight</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829212</data>
+</edge>
+<edge source="Apple Inc." target="Q3 2022 Form 10-Q">
+  <data key="d6">9.0</data>
+  <data key="d7">Apple Inc. is the organization that filed the Q3 2022 Form 10-Q report for financial disclosure.</data>
+  <data key="d8">financial reporting,organizational accountability</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829214</data>
+</edge>
+<edge source="Apple Inc." target="Sarbanes-Oxley Act of 2002">
+  <data key="d6">10.0</data>
+  <data key="d7">Apple Inc. is ensuring compliance with the Sarbanes-Oxley Act through its financial disclosures and certifications.</data>
+  <data key="d8">legal requirements,regulatory compliance</data>
+  <data key="d9">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829216</data>
+</edge>
+<edge source="Apple Inc." target="Senior Vice President">
+  <data key="d6">6.0</data>
+  <data key="d7">The Senior Vice President, Chief Financial Officer is a position within Apple Inc., indicating a corporate role in financial oversight.</data>
+  <data key="d8">corporate structure,leadership</data>
+  <data key="d9">chunk-6522ee288dda614a176d0693133b250e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829216</data>
+</edge>
+<edge source="Apple Inc." target="Securities and Exchange Commission">
+  <data key="d6">8.0</data>
+  <data key="d7">Apple Inc. is required to provide documentation to the Securities and Exchange Commission as part of its regulatory obligations.</data>
+  <data key="d8">corporate oversight,regulatory submission</data>
+  <data key="d9">chunk-6522ee288dda614a176d0693133b250e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829217</data>
+</edge>
+<edge source="Money Market Funds" target="Subtotal">
+  <data key="d6">7.0</data>
+  <data key="d7">Money Market Funds contribute to the subtotal amount presented in the financial breakdown.</data>
+  <data key="d8">financial categories,investment vehicles</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829153</data>
+</edge>
+<edge source="Money Market Funds" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total includes the amounts from Money Market Funds as part of the financial overview.</data>
+  <data key="d8">financial summary,investment categories</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829158</data>
+</edge>
+<edge source="Mutual Funds" target="Subtotal">
+  <data key="d6">7.0</data>
+  <data key="d7">Mutual Funds are included in the subtotal of investment categories as part of the financial summary.</data>
+  <data key="d8">financial categories,investment performance</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829154</data>
+</edge>
+<edge source="Mutual Funds" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total accounts for the values associated with Mutual Funds in the financial breakdown.</data>
+  <data key="d8">financial summary,investment categories</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829159</data>
+</edge>
+<edge source="U.S. Treasury Securities" target="Subtotal">
+  <data key="d6">8.0</data>
+  <data key="d7">U.S. Treasury Securities contribute to the subtotal amount in the financial chart indicating government-backed investments.</data>
+  <data key="d8">financial categories,government securities</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829155</data>
+</edge>
+<edge source="U.S. Treasury Securities" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total encompasses the total of U.S. Treasury Securities listed in the financial summary.</data>
+  <data key="d8">financial summary,government securities</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829160</data>
+</edge>
+<edge source="U.S. Agency Securities" target="Subtotal">
+  <data key="d6">8.0</data>
+  <data key="d7">U.S. Agency Securities are included in the financial subtotal as part of the debt instruments offered.</data>
+  <data key="d8">agency securities,financial categories</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829156</data>
+</edge>
+<edge source="U.S. Agency Securities" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total integrates the amounts from U.S. Agency Securities in the overall financial statement.</data>
+  <data key="d8">agency securities,financial summary</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829161</data>
+</edge>
+<edge source="Non-U.S. Government Securities" target="Subtotal">
+  <data key="d6">7.0</data>
+  <data key="d7">Non-U.S. Government Securities are part of the subtotal showing the diversity of investment options available.</data>
+  <data key="d8">financial categories,foreign investments</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829156</data>
+</edge>
+<edge source="Non-U.S. Government Securities" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total reflects the contributions of Non-U.S. Government Securities to the financial overview.</data>
+  <data key="d8">financial summary,foreign investments</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829162</data>
+</edge>
+<edge source="Certificates of Deposit and Time Deposits" target="Subtotal">
+  <data key="d6">7.0</data>
+  <data key="d7">Certificates of Deposit and Time Deposits contribute to the overall subtotal of liquid investments listed.</data>
+  <data key="d8">financial categories,time deposits</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829157</data>
+</edge>
+<edge source="Certificates of Deposit and Time Deposits" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total includes the financial figures from Certificates of Deposit and Time Deposits.</data>
+  <data key="d8">financial summary,time deposits</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829163</data>
+</edge>
+<edge source="Commercial Paper" target="Subtotal">
+  <data key="d6">7.0</data>
+  <data key="d7">Commercial Paper is included in the subtotal of financial instruments as a short-term financing option.</data>
+  <data key="d8">corporate financing,financial categories</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829158</data>
+</edge>
+<edge source="Commercial Paper" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total summarizes the values associated with Commercial Paper as part of the financial report.</data>
+  <data key="d8">corporate financing,financial summary</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829164</data>
+</edge>
+<edge source="Commercial Paper" target="Company">
+  <data key="d6">16.0</data>
+  <data key="d7">Commercial paper is used by the Company to meet short-term financing requirements.&lt;SEP&gt;The Company issues Commercial Paper to meet its short-term financial obligations and corporate needs.</data>
+  <data key="d8">corporate funding,financial instrument,short-term financing</data>
+  <data key="d9">chunk-5667be7ee814f9325edc15416624ae7d&lt;SEP&gt;chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829168</data>
+</edge>
+<edge source="Commercial Paper" target="Share Repurchase Program">
+  <data key="d6">7.0</data>
+  <data key="d7">Financing for the Share Repurchase Program may be sourced from proceeds generated through Commercial Paper.</data>
+  <data key="d8">financial management,funding source</data>
+  <data key="d9">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829176</data>
+</edge>
+<edge source="Corporate Debt Securities" target="Subtotal">
+  <data key="d6">8.0</data>
+  <data key="d7">Corporate Debt Securities add to the subtotal representing corporate financing options.</data>
+  <data key="d8">corporate financing,financial categories</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829159</data>
+</edge>
+<edge source="Corporate Debt Securities" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total incorporates the amounts from Corporate Debt Securities into the overall total.</data>
+  <data key="d8">corporate financing,financial summary</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829164</data>
+</edge>
+<edge source="Municipal Securities" target="Subtotal">
+  <data key="d6">7.0</data>
+  <data key="d7">Municipal Securities are part of the subtotal highlighting government-related investments.</data>
+  <data key="d8">financial categories,government securities</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829160</data>
+</edge>
+<edge source="Municipal Securities" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total encases the financial data from Municipal Securities as part of the aggregate financial figure.</data>
+  <data key="d8">financial summary,government securities</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829166</data>
+</edge>
+<edge source="Mortgage- and Asset-Backed Securities" target="Subtotal">
+  <data key="d6">8.0</data>
+  <data key="d7">Mortgage- and Asset-Backed Securities contribute to the subtotal indicating asset-backed investments.</data>
+  <data key="d8">asset-backed securities,financial categories</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829160</data>
+</edge>
+<edge source="Mortgage- and Asset-Backed Securities" target="Total">
+  <data key="d6">8.0</data>
+  <data key="d7">The Total represents the consolidated amounts from Mortgage- and Asset-Backed Securities in the financial summary.</data>
+  <data key="d8">asset-backed securities,financial summary</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829167</data>
+</edge>
+<edge source="Mortgage- and Asset-Backed Securities" target="Company">
+  <data key="d6">6.0</data>
+  <data key="d7">The Company includes mortgage- and asset-backed securities as part of its investment portfolio.</data>
+  <data key="d8">investment strategy</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829168</data>
+</edge>
+<edge source="Current Marketable Securities" target="Non-Current Marketable Securities">
+  <data key="d6">7.0</data>
+  <data key="d7">Both Current and Non-Current Marketable Securities are part of the financial assessment shown in the report.</data>
+  <data key="d8">financial metrics,marketable securities</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829159</data>
+</edge>
+<edge source="Services" target="Company">
+  <data key="d6">15.0</data>
+  <data key="d7">The Company reported increased gross margins in Services due to higher net sales, reflecting an improvement in this category of offerings.&lt;SEP&gt;The Services segment had a positive sales increase, contributing to the Company’s overall financial performance.</data>
+  <data key="d8">category performance,revenue generation,revenue growth,service growth</data>
+  <data key="d9">chunk-e25eb41592e94072b3fe995c836426f5&lt;SEP&gt;chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829197</data>
+</edge>
+<edge source="Services" target="AirPods">
+  <data key="d6">7.0</data>
+  <data key="d7">Lower net sales of AirPods impacted the overall performance of the Wearables segment, which is part of the Company's services.</data>
+  <data key="d8">product impact,sales reporting</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829200</data>
+</edge>
+<edge source="Services" target="Apple Watch">
+  <data key="d6">8.0</data>
+  <data key="d7">Higher net sales of Apple Watch contributed positively to the overall services offered by the Company.</data>
+  <data key="d8">product impact,sales growth</data>
+  <data key="d9">chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829200</data>
+</edge>
+<edge source="Total" target="Subtotal">
+  <data key="d6">9.0</data>
+  <data key="d7">The Total is a culmination of the subtotals shown for various financial categories, reflecting the complete financial picture.</data>
+  <data key="d8">aggregation,financial summary</data>
+  <data key="d9">chunk-97098f5ab0596cfb8c1788f6631a35f7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829165</data>
+</edge>
+<edge source="Certificates of Deposit" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">Certificates of deposit are part of the Company's financial instruments portfolio for managing liquidity.</data>
+  <data key="d8">financial management,liquidity</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829164</data>
+</edge>
+<edge source="Foreign Exchange Contracts" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company utilizes foreign exchange contracts as a strategy to manage risks related to currency fluctuations.</data>
+  <data key="d8">financial strategy,risk management</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829162</data>
+</edge>
+<edge source="Interest Rate Swaps" target="Company">
+  <data key="d6">9.0</data>
+  <data key="d7">Interest rate swaps are part of the Company's strategy to hedge against fluctuations in interest rates.</data>
+  <data key="d8">financial instruments,risk management</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829163</data>
+</edge>
+<edge source="Non-Current Marketable Debt Securities" target="Company">
+  <data key="d6">6.0</data>
+  <data key="d7">The Company manages non-current marketable debt securities as part of its long-term financial strategy and investments.</data>
+  <data key="d8">investment strategy,long-term planning</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829169</data>
+</edge>
+<edge source="Derivative Instruments" target="Company">
+  <data key="d6">17.0</data>
+  <data key="d7">The Company utilizes Derivative Instruments for risk management related to its financial position and market fluctuations.&lt;SEP&gt;The Company utilizes derivative instruments to mitigate risks associated with foreign exchange and interest rate fluctuations.</data>
+  <data key="d8">financial instruments,financial strategy,risk management</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d&lt;SEP&gt;chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829170</data>
+</edge>
+<edge source="Hedging" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">Hedging is a key strategy employed by the Company to protect against financial risks in its operations.</data>
+  <data key="d8">financial strategy,risk management</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829171</data>
+</edge>
+<edge source="Fair Value Estimates" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">Fair value estimates are essential for the Company's financial reporting and assessing the fair value of its assets and liabilities.</data>
+  <data key="d8">asset valuation,financial reporting</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829172</data>
+</edge>
+<edge source="Company's Term Debt" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company manages its term debt as part of its financing strategy and may use hedging instruments to mitigate associated risks.</data>
+  <data key="d8">debt management,financial strategy</data>
+  <data key="d9">chunk-0a61210b37fe67569d7fb5e9260b901d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829172</data>
+</edge>
+<edge source="Trade Receivables" target="Company">
+  <data key="d6">9.0</data>
+  <data key="d7">The Company manages Trade Receivables which represent amounts owed to it by customers, reflecting credit risk and sales activities.</data>
+  <data key="d8">financial management,receivables</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829173</data>
+</edge>
+<edge source="Property, Plant and Equipment" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company reports on Property, Plant and Equipment to reflect its investment in physical assets and resources.</data>
+  <data key="d8">accounting,asset management</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829175</data>
+</edge>
+<edge source="Other Non-Current Liabilities" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company details Other Non-Current Liabilities showing its future financial obligations and fiscal responsibilities.</data>
+  <data key="d8">financial obligations,liabilities</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829176</data>
+</edge>
+<edge source="Cash Flow Hedges" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company designates certain Derivative Instruments as Cash Flow Hedges to manage cash flow variability in its financial operations.</data>
+  <data key="d8">cash flow management,financial strategy</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829178</data>
+</edge>
+<edge source="Fair Value Hedges" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company employs Fair Value Hedges to mitigate risks related to changes in the fair value of its assets and liabilities.</data>
+  <data key="d8">asset management,financial strategy</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829179</data>
+</edge>
+<edge source="Share Repurchase Program" target="Equity">
+  <data key="d6">9.0</data>
+  <data key="d7">The Share Repurchase Program directly impacts the Company’s equity by reducing the number of outstanding shares.</data>
+  <data key="d8">financial strategy,impact on ownership</data>
+  <data key="d9">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829178</data>
+</edge>
+<edge source="Share Repurchase Program" target="Company">
+  <data key="d6">9.0</data>
+  <data key="d7">The Company utilizes the Share Repurchase Program to buy back its own shares, impacting shareholder equity.</data>
+  <data key="d8">corporate strategy,shareholder impact</data>
+  <data key="d9">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829181</data>
+</edge>
+<edge source="Restricted Stock Units" target="Share-Based Compensation">
+  <data key="d6">9.0</data>
+  <data key="d7">Share-Based Compensation expense is related to the issuance and vesting of Restricted Stock Units.</data>
+  <data key="d8">employee compensation,financial reporting</data>
+  <data key="d9">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829177</data>
+</edge>
+<edge source="Notes" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company outlines various financial activities and policies within the Notes of its financial statements.</data>
+  <data key="d8">financial documentation,informational context</data>
+  <data key="d9">chunk-5667be7ee814f9325edc15416624ae7d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829182</data>
+</edge>
+<edge source="Americas" target="Company">
+  <data key="d6">16.0</data>
+  <data key="d7">The Company reports financial performance metrics specifically for the Americas segment, highlighting its operational results.&lt;SEP&gt;The Company reports its financials on a geographic basis, with specific segments including the Americas for operational management.</data>
+  <data key="d8">financial reporting,geographic management,regional performance</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829182</data>
+</edge>
+<edge source="Europe" target="Company">
+  <data key="d6">16.0</data>
+  <data key="d7">The Company manages its operations separately within geographic regions, including Europe, for tailored market dynamics.&lt;SEP&gt;The Company reports financial performance metrics specifically for the Europe segment, highlighting its operational results.</data>
+  <data key="d8">financial reporting,geographic management,operational strategy,regional performance</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829183</data>
+</edge>
+<edge source="Greater China" target="Company">
+  <data key="d6">16.0</data>
+  <data key="d7">The Company reports financial performance metrics specifically for the Greater China segment, highlighting its operational results.&lt;SEP&gt;The Company reports on Greater China as a separate segment to better align with market dynamics and customer distribution.</data>
+  <data key="d8">financial reporting,geographic management,regional performance</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829184</data>
+</edge>
+<edge source="Japan" target="Company">
+  <data key="d6">24.0</data>
+  <data key="d7">Japan is one of the reportable segments for the Company, indicating the geographic distribution of net sales performance.&lt;SEP&gt;Japan's net sales were adversely impacted by currency fluctuations, which affected the Company's overall sales performance in that region.&lt;SEP&gt;The Company reports financial performance metrics specifically for the Japan segment, highlighting its operational results.</data>
+  <data key="d8">currency impact,financial reporting,geographic management,regional performance,sales performance</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-e25eb41592e94072b3fe995c836426f5&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829185</data>
+</edge>
+<edge source="Rest of Asia Pacific" target="Company">
+  <data key="d6">25.0</data>
+  <data key="d7">Increased net sales in the Rest of Asia Pacific region contributed positively to the Company's earnings growth compared to the previous year.&lt;SEP&gt;The Company reports financial performance metrics specifically for the Rest of Asia Pacific segment, highlighting its operational results.&lt;SEP&gt;The Company treats Rest of Asia Pacific as a distinct reportable segment, reflecting varied market conditions.</data>
+  <data key="d8">earnings growth,financial reporting,geographic management,regional performance</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25&lt;SEP&gt;chunk-e25eb41592e94072b3fe995c836426f5&lt;SEP&gt;chunk-0055a41e0ea7581d107534c00d5324b7</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829186</data>
+</edge>
+<edge source="Share-Based Compensation Expense" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company incurs Share-Based Compensation Expense which has implications for its financial reporting and employee compensation structures.</data>
+  <data key="d8">employee compensation,financial reporting</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829186</data>
+</edge>
+<edge source="Income Tax Benefit Related to Share-Based Compensation Expense" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">The Income Tax Benefit Related to Share-Based Compensation Expense is derived from the share-based compensation the Company provides to its employees.</data>
+  <data key="d8">financial reporting,tax benefits</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829187</data>
+</edge>
+<edge source="Accrued Warranty" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">Accrued Warranty indicates the Company's reporting and financial liabilities related to warranty claims for its products.</data>
+  <data key="d8">financial liabilities,product warranty</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829188</data>
+</edge>
+<edge source="Commitments and Contingencies" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company highlights its Commitments and Contingencies regarding ongoing legal proceedings that may impact its financial stability.</data>
+  <data key="d8">financial implications,legal proceedings</data>
+  <data key="d9">chunk-5364a1686fe3fbb9954bed288582cd25</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829189</data>
+</edge>
+<edge source="MacBook Air" target="Company">
+  <data key="d6">9.0</data>
+  <data key="d7">The Company introduced the MacBook Air as part of its product offering in the third quarter of 2022.</data>
+  <data key="d8">product launch,product offering</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829191</data>
+</edge>
+<edge source="MacBook Pro" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company announced an updated version of the MacBook Pro powered by the new Apple M2 chip.</data>
+  <data key="d8">product update,technological advancement</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829192</data>
+</edge>
+<edge source="Form 10-Q" target="Quarterly Report of Apple Inc.">
+  <data key="d6">8.0</data>
+  <data key="d7">The Quarterly Report of Apple Inc. was filed on Form 10-Q for compliance with regulatory requirements.</data>
+  <data key="d8">financial reporting,regulatory compliance</data>
+  <data key="d9">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829215</data>
+</edge>
+<edge source="third quarter of 2022" target="foreign currencies">
+  <data key="d6">7.0</data>
+  <data key="d7">The impact of foreign currencies during the third quarter of 2022 influenced Apple's net sales performance adversely.</data>
+  <data key="d8">currency influence,financial impact</data>
+  <data key="d9">chunk-f7ce468fc41faefa346e0bdde00f14bc</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829189</data>
+</edge>
+<edge source="U.S. dollar" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">The unfavorable impact of the U.S. dollar affected the Company’s net sales of Products and Services.</data>
+  <data key="d8">currency impact,financial performance</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829190</data>
+</edge>
+<edge source="Apple M2 chip" target="Company">
+  <data key="d6">10.0</data>
+  <data key="d7">The new Apple M2 chip powers the Company’s recently introduced laptops, indicating innovation in their products.</data>
+  <data key="d8">innovation,technology integration</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829192</data>
+</edge>
+<edge source="COVID-19 pandemic" target="Company">
+  <data key="d6">9.0</data>
+  <data key="d7">The COVID-19 pandemic has significantly affected the Company's business operations and financial condition.</data>
+  <data key="d8">economic impact,operational disruption</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829193</data>
+</edge>
+<edge source="AirPods" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">AirPods are produced and sold by the Company as part of its Wearables, Home and Accessories line, contributing to overall sales.</data>
+  <data key="d8">product offering,revenue stream</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829199</data>
+</edge>
+<edge source="Apple Watch" target="Company">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company markets the Apple Watch as part of its wearable technology offerings, which affects sales trends within the product line.</data>
+  <data key="d8">market performance,product offering</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829200</data>
+</edge>
+<edge source="Supply Shortages" target="Company">
+  <data key="d6">8.0</data>
+  <data key="d7">Supply shortages among the Company's partners due to the COVID-19 pandemic impact their product availability and sales performance.</data>
+  <data key="d8">operational impact,supply chain disruption</data>
+  <data key="d9">chunk-1f1da88035b296490c9ef80daed18a41</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829200</data>
+</edge>
+<edge source="Products" target="Company">
+  <data key="d6">6.0</data>
+  <data key="d7">The Company’s Products category saw a decrease in gross margin primarily attributed to currency weakness and a different product mix.</data>
+  <data key="d8">category issues,revenue challenges</data>
+  <data key="d9">chunk-e25eb41592e94072b3fe995c836426f5</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829201</data>
+</edge>
+<edge source="Operating Expenses" target="Company">
+  <data key="d6">6.0</data>
+  <data key="d7">The Company reports its total Operating Expenses, which includes Research and Development and other costs, affecting its overall financial performance.</data>
+  <data key="d8">expense analysis,financial reporting</data>
+  <data key="d9">chunk-e25eb41592e94072b3fe995c836426f5</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829203</data>
+</edge>
+<edge source="Company" target="Other Income/(Expense)">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company reports Other Income/(Expense) to illustrate additional earnings or losses outside of standard operations.</data>
+  <data key="d8">financial performance,income analysis</data>
+  <data key="d9">chunk-7b38246babae9e937abd3337e578e39c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829177</data>
+</edge>
+<edge source="Company" target="Research and Development">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company incurs Research and Development expenses to enhance its offerings, indicating an investment in innovation and product improvement.</data>
+  <data key="d8">innovation,investment</data>
+  <data key="d9">chunk-e25eb41592e94072b3fe995c836426f5</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829202</data>
+</edge>
+<edge source="Company" target="R&amp;D Expense">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company invests in R&amp;D Expense to drive future growth and enhance its product offerings.</data>
+  <data key="d8">growth strategy,investment</data>
+  <data key="d9">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829204</data>
+</edge>
+<edge source="Company" target="Selling, General and Administrative Expense">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company's operational costs include Selling, General and Administrative Expense, which helps maintain business functions.</data>
+  <data key="d8">business maintenance,operational costs</data>
+  <data key="d9">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829204</data>
+</edge>
+<edge source="Company" target="Liquidity and Capital Resources">
+  <data key="d6">9.0</data>
+  <data key="d7">The Company ensures sufficient cash through its Liquidity and Capital Resources to support ongoing operations and obligations.</data>
+  <data key="d8">financial stability,operational support</data>
+  <data key="d9">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829205</data>
+</edge>
+<edge source="Company" target="Manufacturing Purchase Obligations">
+  <data key="d6">7.0</data>
+  <data key="d7">Manufacturing Purchase Obligations indicate the Company's commitment to producing products through various outsourcing partners.</data>
+  <data key="d8">outsourcing,production commitments</data>
+  <data key="d9">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829207</data>
+</edge>
+<edge source="Company" target="Effective Tax Rate">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company's Effective Tax Rate is influenced by its earning strategies and tax benefits utilized.</data>
+  <data key="d8">financial performance,taxation strategy</data>
+  <data key="d9">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829208</data>
+</edge>
+<edge source="Company" target="Other Income/(Expense), Net">
+  <data key="d6">7.0</data>
+  <data key="d7">The Company's financial performance includes Other Income/(Expense), Net, which affects the overall net income reported.</data>
+  <data key="d8">financial performance,income statement</data>
+  <data key="d9">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829209</data>
+</edge>
+<edge source="Company" target="Provision for Income Taxes">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company's reported taxes reflect its Provision for Income Taxes, illustrating financial obligations to government authorities.</data>
+  <data key="d8">financial reporting,tax obligations</data>
+  <data key="d9">chunk-f867fff1e5b5919356b6b58b89c2068d</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829209</data>
+</edge>
+<edge source="The Company" target="Epic Games, Inc.">
+  <data key="d6">9.0</data>
+  <data key="d7">Epic Games, Inc. has accused The Company of violating antitrust laws in a lawsuit, which is central to the relationship between the two organizations.</data>
+  <data key="d8">antitrust,legal conflict</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829204</data>
+</edge>
+<edge source="The Company" target="Northern California District Court">
+  <data key="d6">8.0</data>
+  <data key="d7">The Northern California District Court is where the legal proceedings involving The Company and Epic Games are taking place.</data>
+  <data key="d8">court proceedings,legal context</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829204</data>
+</edge>
+<edge source="The Company" target="Board of Directors">
+  <data key="d6">7.0</data>
+  <data key="d7">The Board of Directors is responsible for making high-level decisions regarding financial matters, including share repurchase and dividend policy for The Company.</data>
+  <data key="d8">financial decisions,governance</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829205</data>
+</edge>
+<edge source="The Company" target="2021 Form 10-K">
+  <data key="d6">8.0</data>
+  <data key="d7">The 2021 Form 10-K provides detailed information about The Company's financial performance and is a critical document for investors.</data>
+  <data key="d8">financial disclosure,regulatory compliance</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829206</data>
+</edge>
+<edge source="The Company" target="App Store Review Guidelines">
+  <data key="d6">8.0</data>
+  <data key="d7">The App Store Review Guidelines are a set of rules drafted by The Company that have become a point of legal contention in the lawsuit by Epic Games.</data>
+  <data key="d8">compliance,legal dispute</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829207</data>
+</edge>
+<edge source="The Company" target="Company's market risk disclosures">
+  <data key="d6">8.0</data>
+  <data key="d7">The Company's market risk disclosures are linked to its financial condition and are required disclosures that the Company files under SEC rules.</data>
+  <data key="d8">financial reporting,regulatory compliance</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829208</data>
+</edge>
+<edge source="Epic Games, Inc." target="Northern California District Court">
+  <data key="d6">9.0</data>
+  <data key="d7">The lawsuit filed by Epic Games against The Company is being adjudicated in the Northern California District Court.</data>
+  <data key="d8">judiciary,legal action</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829205</data>
+</edge>
+<edge source="Northern California District Court" target="September 10, 2021">
+  <data key="d6">8.0</data>
+  <data key="d7">The significant ruling by the Northern California District Court occurred on September 10, 2021 in the case involving The Company and Epic Games.</data>
+  <data key="d8">case timeline,legal milestone</data>
+  <data key="d9">chunk-f61306c246bae83bff7a8170bf384d8c</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829206</data>
+</edge>
+<edge source="Katherine L. Adams" target="Equity Trading Plans">
+  <data key="d6">8.0</data>
+  <data key="d7">Katherine L. Adams engages in trading under established Equity Trading Plans, ensuring compliance with regulations.</data>
+  <data key="d8">officer responsibility,trading compliance</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829209</data>
+</edge>
+<edge source="Timothy D. Cook" target="Equity Trading Plans">
+  <data key="d6">8.0</data>
+  <data key="d7">Timothy D. Cook participates in Equity Trading Plans that are compliant with Rule 10b5-1 guidelines.</data>
+  <data key="d8">officer responsibility,trading compliance</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829212</data>
+</edge>
+<edge source="Timothy D. Cook" target="Q3 2022 Form 10-Q">
+  <data key="d6">8.0</data>
+  <data key="d7">Timothy D. Cook's certification of the Form 10-Q underlines the importance of the financial disclosures contained within it.</data>
+  <data key="d8">compliance,report validation</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829213</data>
+</edge>
+<edge source="Timothy D. Cook" target="Quarterly Report">
+  <data key="d6">8.0</data>
+  <data key="d7">Timothy D. Cook certified the Quarterly Report of Apple Inc., linking him directly to its financial disclosures.</data>
+  <data key="d8">financial certification,report validation</data>
+  <data key="d9">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829214</data>
+</edge>
+<edge source="Timothy D. Cook" target="July 28, 2022">
+  <data key="d6">6.0</data>
+  <data key="d7">Timothy D. Cook certified the quarterly report on July 28, 2022, linking his executive action to this date.</data>
+  <data key="d8">date of action,report certification</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829215</data>
+</edge>
+<edge source="Luca Maestri" target="Q3 2022 Form 10-Q">
+  <data key="d6">7.0</data>
+  <data key="d7">Luca Maestri certified the Q3 2022 Form 10-Q, ensuring its accuracy and completeness according to requirements.</data>
+  <data key="d8">compliance,report certification</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829211</data>
+</edge>
+<edge source="Luca Maestri" target="July 28, 2022">
+  <data key="d6">6.0</data>
+  <data key="d7">Luca Maestri's certification of the financial report took place on July 28, 2022, thus linking his action to this specific date.</data>
+  <data key="d8">date of action,report certification</data>
+  <data key="d9">chunk-a3950ef8021814e5f600e35d4cad03d8</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829212</data>
+</edge>
+<edge source="Luca Maestri" target="Equity Trading Plans">
+  <data key="d6">8.0</data>
+  <data key="d7">Luca Maestri follows Equity Trading Plans in managing stock transactions according to regulations.</data>
+  <data key="d8">officer responsibility,trading compliance</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829214</data>
+</edge>
+<edge source="Luca Maestri" target="Quarterly Report">
+  <data key="d6">8.0</data>
+  <data key="d7">Luca Maestri also certified the Quarterly Report, confirming its accuracy and compliance with regulations.</data>
+  <data key="d8">financial certification,report validation</data>
+  <data key="d9">chunk-fd6bfb3dcb1e5f3335d5fb10fb02885e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829215</data>
+</edge>
+<edge source="Equity Trading Plans" target="Rule 10b5-1">
+  <data key="d6">10.0</data>
+  <data key="d7">Rule 10b5-1 provides the framework for establishing Equity Trading Plans to avoid insider trading violations.</data>
+  <data key="d8">regulatory compliance,trading regulation</data>
+  <data key="d9">chunk-4efbfa1b357e26ac583d28b1aab76349</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829215</data>
+</edge>
+<edge source="Senior Vice President" target="Securities and Exchange Commission">
+  <data key="d6">7.0</data>
+  <data key="d7">The Senior Vice President oversees compliance and regulatory requirements related to financial reporting, including submissions to the Securities and Exchange Commission.</data>
+  <data key="d8">corporate governance,regulatory compliance</data>
+  <data key="d9">chunk-6522ee288dda614a176d0693133b250e</data>
+  <data key="d10">aapl_financial_data/2022 Q3 AAPL.md</data>
+  <data key="d11">1754829216</data>
+</edge>
+</graph></graphml>

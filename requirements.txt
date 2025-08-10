@@ -2,4 +2,5 @@
 docling
 sentence-transformers
 torch
-lightrag
+lightrag-hku==1.4.6
+streamlit

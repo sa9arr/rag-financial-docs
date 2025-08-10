@@ -17,7 +17,7 @@ def answer_vector_rag_query(query: str):
     if not openai_api_key:
         raise ValueError("OPENAI_API_KEY environment variable not set.")
     
-    # Load the embedding model (must match the one used for ingestion)
+
     embedding_model = HuggingFaceEmbeddings(model_name='FinLang/finance-embeddings-investopedia')
     
     # Load the existing ChromaDB from disk

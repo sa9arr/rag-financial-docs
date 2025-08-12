@@ -23,6 +23,11 @@ This repository explores and compares various Retrieval-Augmented Generation (RA
 
 This project demonstrates how to build and use a RAG system to answer questions about financial reports. It uses Apple's Q3 2022 financial report as a sample document. The primary goal is to showcase how different RAG techniques can be applied to extract and generate insights from complex and unstructured financial data.
 
+This project now includes the following RAG strategies:
+1.  ChromaDB backed Vector RAG
+2.  LightRAG powered Vector + KG RAG
+3.  No-chunk RAG using a LLM with a 128k token window (gemini-2.5-flash)
+
 ## Features
 
 - **Hybrid RAG System:** Implements both vector-based and knowledge graph-based retrieval.
@@ -123,3 +128,7 @@ This method uses a traditional vector-based approach for retrieval. The document
 ### Knowledge Graph-based RAG
 
 This method uses a knowledge graph to represent the entities and relationships in the financial documents. The `LightRAG` library is used to build the knowledge graph and perform retrieval. This approach can provide more precise and contextually aware answers by leveraging the structured information in the knowledge graph.
+
+### Long-Context RAG
+
+This method leverages a long-context window LLM, `gemini-2.5-flash`, to perform RAG on the entire document at once. Instead of chunking the document, the entire document is passed to the LLM, which then uses its long context window to find the relevant information and answer the query. This approach is simpler than the other two and can be very effective for documents that fit within the LLM's context window.

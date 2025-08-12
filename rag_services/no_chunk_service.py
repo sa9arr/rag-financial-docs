@@ -3,7 +3,7 @@ from google.genai.types import GenerateContentConfig, HttpOptions
 from dotenv import load_dotenv
 import os
 
-with open("../aapl_financial_data/2022 Q3 AAPL.md", "r") as f:
+with open("/home/ozymas/Pictures/rag-financial-docs/aapl_financial_data/2022 Q3 AAPL.md", "r") as f:
     context = f.read()
 
 load_dotenv()

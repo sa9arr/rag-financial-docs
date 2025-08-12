@@ -1,6 +1,7 @@
 import streamlit as st
 from rag_services.kg_rag_service import answer_query
 from rag_services.vector_rag_service import answer_vector_rag_query
+from rag_services.no_chunk_service import no_chunk_answer_query
 
 st.set_page_config(page_title="Hybrid RAG App", layout="centered")
 
@@ -11,7 +12,7 @@ st.write("Vector RAG uses ChromaDB and FinLang/finance-embeddings-investopedia, 
 # Radio button to choose the RAG method
 rag_method = st.radio(
     "Choose a RAG method:",
-    ("KG RAG", "Vector RAG")
+    ("KG RAG", "Vector RAG", "No Chunk RAG")
 )
 
 # Input field
@@ -26,6 +27,8 @@ if st.button("Search"):
                     answer = answer_query(query)
                 elif rag_method == "Vector RAG":
                     answer = answer_vector_rag_query(query)
+                elif rag_method == "No Chunk RAG":
+                    answer = no_chunk_answer_query(query) 
                 
                 st.subheader("Answer")
                 st.write(answer)
